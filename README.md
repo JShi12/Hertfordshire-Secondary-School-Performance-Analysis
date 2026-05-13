@@ -34,15 +34,6 @@ The notebook uses local files under `data/`, including:
 
 ## Regression Summary
 
-The regression models use standardised numeric predictors:
-
-- `PNUMFSMEVER`
-- `PERCTOT`
-- `PSEN_ALL4`
-- `NOR`
-
-`PPERSABS10` is omitted because it is strongly related to `PERCTOT`, and `PNORG` is omitted because it has a weak relationship with attainment in the correlation check.
-
 Key findings:
 
 - `PNUMFSMEVER` and `PERCTOT` are statistically clear negative predictors for `ATT8SCR`.
