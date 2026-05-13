@@ -1,0 +1,591 @@
+﻿URN,LANAME,LA,ESTAB,LAESTAB,SCHNAME,STREET,LOCALITY,ADDRESS3,TOWN,POSTCODE,SCHSTATUS,OPENDATE,CLOSEDATE,MINORGROUP,SCHOOLTYPE,ISPRIMARY,ISSECONDARY,ISPOST16,AGELOW,AGEHIGH,GENDER,RELCHAR,ADMPOL
+102256,Hertfordshire,919,6239,9196239,The Purcell School,Aldenham Road,Bushey,,,WD23 2TS,Open,,,Independent school,Other independent school,1,1,1,8,19,Mixed,None,Not applicable
+117083,Hertfordshire,919,2000,9192000,Abbots Langley School,Parsonage Close,,,Abbots Langley,WD5 0BQ,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117084,Hertfordshire,919,2002,9192002,Ashwell Primary School,Silver Street,Ashwell,,Baldock,SG7 5QL,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117087,Hertfordshire,919,2011,9192011,Jenyns First School and Nursery,Uplands,Braughing,,Ware,SG11 2QJ,Open,,,Maintained school,Community school,1,0,0,3,9,Mixed,Does not apply,Not applicable
+117088,Hertfordshire,919,2012,9192012,Bushey Heath Primary School,The Rutts,Bushey Heath,,Bushey,WD23 1SP,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117089,Hertfordshire,919,2013,9192013,Highwood Primary School,Mead Way,,,Bushey,WD23 2AW,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117090,Hertfordshire,919,2014,9192014,Merry Hill Infant School and Nursery,School Lane,,,Bushey,WD23 1ST,Open,,,Maintained school,Community school,1,0,0,3,7,Mixed,Does not apply,Not applicable
+117091,Hertfordshire,919,2016,9192016,Holdbrook Primary School and Nursery,Longcroft Drive,,,Waltham Cross,EN8 7QG,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117092,Hertfordshire,919,2017,9192017,Four Swannes Primary School,King Edward Road,,,Waltham Cross,EN8 7HH,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117093,Hertfordshire,919,2019,9192019,Chorleywood Primary School,Stag Lane,Chorleywood,,Rickmansworth,WD3 5HR,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117096,Hertfordshire,919,2022,9192022,Shepherd Primary,Shepherd's Lane,,,Rickmansworth,WD3 8JJ,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117097,Hertfordshire,919,2023,9192023,Hobletts Manor Junior School,Adeyfield Road,,,Hemel Hempstead,HP2 5JS,Open,,,Maintained school,Community school,1,0,0,7,11,Mixed,Does not apply,Not applicable
+117098,Hertfordshire,919,2025,9192025,The Russell School,Brushwood Drive,Chorleywood,,Rickmansworth,WD3 5RR,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117099,Hertfordshire,919,2030,9192030,Cowley Hill School,Winstre Road,,,Borehamwood,WD6 5DP,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117100,Hertfordshire,919,2031,9192031,Flamstead Village School,Trowley Hill Road,Flamstead,59 Trowley Hill Road,St. Albans,AL3 8DL,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117101,Hertfordshire,919,2032,9192032,Gaddesden Row JMI School,Gaddesden Row,,,Hemel Hempstead,HP2 6HG,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117102,Hertfordshire,919,2033,9192033,Sauncey Wood Primary School,Pickford Hill,,,Harpenden,AL5 5HL,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117103,Hertfordshire,919,2034,9192034,Manland Primary School,Sauncey Avenue,,,Harpenden,AL5 4QW,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Non-selective
+117105,Hertfordshire,919,2039,9192039,Green Lanes Primary School,Green Lanes,,,Hatfield,AL10 9JY,Open,,,Maintained school,Community school,1,0,0,5,11,Mixed,Does not apply,Not applicable
+117106,Hertfordshire,919,2040,9192040,George Street Primary School,George Street,,,Hemel Hempstead,HP2 5HJ,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117107,Hertfordshire,919,2041,9192041,Boxmoor Primary School,Cowper Road,Boxmoor,,Hemel Hempstead,HP1 1PF,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117108,Hertfordshire,919,2044,9192044,Two Waters Primary School,High Ridge Close,Apsley,High Ridge Close,Hemel Hempstead,HP3 0AU,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117109,Hertfordshire,919,2045,9192045,Tudor Primary School,Redwood Drive,,,Hemel Hempstead,HP3 9ER,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117110,Hertfordshire,919,2047,9192047,South Hill Primary School,Heath Lane,,,Hemel Hempstead,HP1 1TT,Open,,,Maintained school,Community school,1,0,0,5,11,Mixed,Does not apply,Not applicable
+117111,Hertfordshire,919,2050,9192050,Abel Smith School,Churchfields,Greencoates,,Hertford,SG13 8AE,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117112,Hertfordshire,919,2053,9192053,Hexton Junior Mixed and Infant School,Hexton,,,Hitchin,SG5 3JL,Closed,,14-04-2024,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117113,Hertfordshire,919,2055,9192055,Highbury Infant School and Nursery,Standhill Road,,,Hitchin,SG4 9AG,Open,,,Maintained school,Community school,1,0,0,3,7,Mixed,Does not apply,Not applicable
+117114,Hertfordshire,919,2056,9192056,Strathmore Infant and Nursery School,Old Hale Way,,,Hitchin,SG5 1XR,Open,,,Maintained school,Community school,1,0,0,3,7,Mixed,Does not apply,Not applicable
+117115,Hertfordshire,919,2057,9192057,Highover Junior Mixed and Infant School,Cambridge Road,,,Hitchin,SG4 0JP,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117117,Hertfordshire,919,2061,9192061,Hunsdon Junior Mixed and Infant School,High Street,Hunsdon,,Ware,SG12 8NT,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117118,Hertfordshire,919,2062,9192062,Kimpton Primary School,High Street,Kimpton,,Hitchin,SG4 8RB,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117119,Hertfordshire,919,2064,9192064,Breachwood Green Junior Mixed and Infant School,Oxford Road,Breachwood Green,,Hitchin,SG4 8NP,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117120,Hertfordshire,919,2066,9192066,Knebworth Primary and Nursery School,Swangleys Lane,,,Knebworth,SG3 6AA,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117123,Hertfordshire,919,2069,9192069,Hillshott Infant School and Nursery,Ridge Avenue,,,Letchworth,SG6 1QE,Open,,,Maintained school,Community school,1,0,0,3,7,Mixed,Does not apply,Not applicable
+117125,Hertfordshire,919,2072,9192072,Hertford Heath Primary and Nursery School,Woodland Road,Hertford Heath,,Hertford,SG13 7QW,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117126,Hertfordshire,919,2073,9192073,Little Hadham Primary School,Stortford Road,Little Hadham,,Ware,SG11 2DX,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117127,Hertfordshire,919,2074,9192074,Markyate Village School and Nursery,Cavendish Road,Markyate,,St Albans,AL3 8PT,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117128,Hertfordshire,919,2077,9192077,Pirton School,High Street,Pirton,,Hitchin,SG5 3PS,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117129,Hertfordshire,919,2078,9192078,Reed First School,Jacksons Lane,Reed,,Royston,SG8 8AB,Open,,,Maintained school,Community school,1,0,0,3,9,Mixed,Does not apply,Not applicable
+117130,Hertfordshire,919,2079,9192079,Yorke Mead Primary School,Dulwich Way,Croxley Green,,Rickmansworth,WD3 3PX,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117131,Hertfordshire,919,2082,9192082,Harvey Road Primary School,Harvey Road,Croxley Green,,Rickmansworth,WD3 3BN,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117132,Hertfordshire,919,2083,9192083,Little Green Junior School,Lincoln Drive,Croxley Green,,Rickmansworth,WD3 3NJ,Open,,,Maintained school,Community school,1,0,0,7,11,Mixed,Does not apply,Not applicable
+117133,Hertfordshire,919,2084,9192084,Malvern Way Infant and Nursery School,Malvern Way,Croxley Green,,Rickmansworth,WD3 3QQ,Open,,,Maintained school,Community school,1,0,0,3,7,Mixed,Does not apply,Not applicable
+117134,Hertfordshire,919,2085,9192085,Tannery Drift School,Tannery Drift,,,Royston,SG8 5DE,Open,,,Maintained school,Community school,1,0,0,3,9,Mixed,Does not apply,Not applicable
+117135,Hertfordshire,919,2090,9192090,Bernards Heath Infant and Nursery School,154 Sandridge Road,,,St Albans,AL1 4AP,Open,,,Maintained school,Community school,1,0,0,3,7,Mixed,Does not apply,Not applicable
+117136,Hertfordshire,919,2091,9192091,Camp Primary and Nursery School,Camp Road,,,St Albans,AL1 5PG,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117140,Hertfordshire,919,2096,9192096,St Peter's School,Cottonmill Lane,,,St Albans,AL1 1HL,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117141,Hertfordshire,919,2098,9192098,Aboyne Lodge Junior Mixed and Infant School,Etna Road,,,St Albans,AL3 5NL,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117143,Hertfordshire,919,2100,9192100,Bernards Heath Junior School,Watson Avenue,,,St Albans,AL3 5HP,Open,,,Maintained school,Community school,1,0,0,7,11,Mixed,Does not apply,Not applicable
+117144,Hertfordshire,919,2101,9192101,St Paul's Walden Primary School,Bendish Lane,Whitwell,,Hitchin,SG4 8HX,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117145,Hertfordshire,919,2102,9192102,Colney Heath Junior Mixed Infant and Nursery School,High Street,Colney Heath,,St Albans,AL4 0NP,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117146,Hertfordshire,919,2103,9192103,London Colney Primary & Nursery School,Alexander Road,London Colney,,St Albans,AL2 1JG,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117147,Hertfordshire,919,2105,9192105,Sandon Junior Mixed and Infant School,Sandon,,,Nr Buntingford,SG9 0QS,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117148,Hertfordshire,919,2106,9192106,Sandridge School,Woodcock Hill,Sandridge,,St Albans,AL4 9EB,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117149,Hertfordshire,919,2107,9192107,Fawbert and Barnard Infants' School,Knight Street,,,Sawbridgeworth,CM21 9AT,Open,,,Maintained school,Community school,1,0,0,3,7,Mixed,Does not apply,Not applicable
+117150,Hertfordshire,919,2108,9192108,Shenley Primary School,London Road,Shenley,,Radlett,WD7 9DX,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117151,Hertfordshire,919,2109,9192109,Letchmore Infants' and Nursery School,Letchmore Road,,,Stevenage,SG1 3PS,Open,,,Maintained school,Community school,1,0,0,3,7,Mixed,Does not apply,Not applicable
+117153,Hertfordshire,919,2111,9192111,Therfield First School,The Causeway,Therfield,,Royston,SG8 9PP,Open,,,Maintained school,Community school,1,0,0,4,9,Mixed,Does not apply,Not applicable
+117154,Hertfordshire,919,2114,9192114,Walkern Primary School,High Street,Walkern,,Stevenage,SG2 7NS,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117156,Hertfordshire,919,2116,9192116,Central Primary School,Derby Road,,,Watford,WD17 2LX,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117157,Hertfordshire,919,2117,9192117,Bushey and Oxhey Infant School,Aldenham Road,,,Bushey,WD23 2QH,Open,,,Maintained school,Community school,1,0,0,5,7,Mixed,Does not apply,Not applicable
+117158,Hertfordshire,919,2120,9192120,Chater Junior School,Addiscombe Road,,,Watford,WD18 0WN,Open,,,Maintained school,Community school,1,0,0,7,11,Mixed,Does not apply,Not applicable
+117159,Hertfordshire,919,2122,9192122,Chater Infant School,Chater Infant School,Southsea Avenue,,Watford,WD18 7RD,Open,,,Maintained school,Community school,1,0,0,3,7,Mixed,Does not apply,Not applicable
+117160,Hertfordshire,919,2123,9192123,Field Junior School,Watford Field Road,,,Watford,WD18 0AZ,Open,,,Maintained school,Community school,1,0,0,7,11,Mixed,Does not apply,Not applicable
+117161,Hertfordshire,919,2124,9192124,Watford Field School (Infant & Nursery),Neal Street,,,Watford,WD18 0WF,Open,,,Maintained school,Community school,1,0,0,3,7,Mixed,Does not apply,Not applicable
+117162,Hertfordshire,919,2125,9192125,Parkgate Junior School,Southwold Road,,,Watford,WD24 7DN,Open,,,Maintained school,Community school,1,0,0,7,11,Mixed,Does not apply,Not applicable
+117163,Hertfordshire,919,2126,9192126,Parkgate Infants' and Nursery School,Northfield Gardens,,,Watford,WD24 7RL,Open,,,Maintained school,Community school,1,0,0,3,7,Mixed,Does not apply,Not applicable
+117166,Hertfordshire,919,2131,9192131,St Meryl School,The Mead,Carpenders Park,,Watford,WD19 5BT,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117167,Hertfordshire,919,2132,9192132,Cassiobury Junior School,Bellmount Wood Avenue,,,Watford,WD17 3PD,Open,,,Maintained school,Community school,1,0,0,7,11,Mixed,Does not apply,Not applicable
+117168,Hertfordshire,919,2133,9192133,Kingsway Junior School,Briar Road,,,Watford,WD25 0JH,Open,,,Maintained school,Community school,1,0,0,7,11,Mixed,Does not apply,Not applicable
+117171,Hertfordshire,919,2139,9192139,Watton-at-Stone Primary and Nursery School,Rectory Lane,Watton-At-Stone,,Hertford,SG14 3SG,Open,,,Maintained school,Community school,1,0,0,2,11,Mixed,Does not apply,Not applicable
+117174,Hertfordshire,919,2142,9192142,Templewood Primary School,Pentley Park,,,Welwyn Garden City,AL8 7SD,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117175,Hertfordshire,919,2143,9192143,Holwell Primary School,Holwell Road,,,Welwyn Garden City,AL7 3RP,Open,,,Maintained school,Community school,1,0,0,5,11,Mixed,Does not apply,Not applicable
+117176,Hertfordshire,919,2145,9192145,Widford School,Ware Road,Widford,Widford School,Widford Herts,SG12 8RE,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117177,Hertfordshire,919,2146,9192146,Wymondley Junior Mixed and Infant School,Siccut Road,Little Wymondley,,Hitchin,SG4 7HN,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117178,Hertfordshire,919,2147,9192147,Tanners Wood Junior Mixed and Infant School,Hazelwood Lane,,,Abbots Langley,WD5 0LG,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117180,Hertfordshire,919,2151,9192151,Hurst Drive Primary School,Hurst Drive,,,Waltham Cross,EN8 8DH,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117181,Hertfordshire,919,2153,9192153,Woodlands Primary School,Alban Crescent,,,Borehamwood,WD6 5JF,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117182,Hertfordshire,919,2154,9192154,Summerswood Primary School,Furzehill Road,,,Borehamwood,WD6 2DW,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117183,Hertfordshire,919,2155,9192155,Kenilworth Primary School,Kenilworth Drive,,,Borehamwood,WD6 1QL,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117186,Hertfordshire,919,2165,9192165,Icknield Infant and Nursery School,Archers Way,,,Letchworth Garden City,SG6 4UN,Open,,,Maintained school,Community school,1,0,0,3,7,Mixed,Does not apply,Not applicable
+117187,Hertfordshire,919,2166,9192166,Bowmansgreen Primary School,Telford Road,London Colney,,St Albans,AL2 1PH,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117188,Hertfordshire,919,2168,9192168,Margaret Wix Primary School,High Oaks,,,St Albans,AL3 6EL,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117189,Hertfordshire,919,2169,9192169,Broom Barns Primary School,Homestead Moat,Bedwell,,Stevenage,SG1 1UE,Open,,,Maintained school,Foundation school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117193,Hertfordshire,919,2177,9192177,Greenfields Primary School,Ellesborough Close,,,Watford,WD19 6QH,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117194,Hertfordshire,919,2178,9192178,Woodhall Primary School,Woodhall Lane,South Oxhey,,Watford,WD19 6QX,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117195,Hertfordshire,919,2181,9192181,Saffron Green Primary School,Nicoll Way,,,Borehamwood,WD6 2PP,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117197,Hertfordshire,919,2184,9192184,Hobletts Manor Infants' School,Adeyfield Road,,,Hemel Hempstead,HP2 5JS,Open,,,Maintained school,Community school,1,0,0,3,7,Mixed,Does not apply,Not applicable
+117200,Hertfordshire,919,2188,9192188,Bedwell Primary School,Bedwell Crescent,,,Stevenage,SG1 1NJ,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117202,Hertfordshire,919,2193,9192193,Chaulden Infants' and Nursery,School Row,Chaulden,,Hemel Hempstead,HP1 2JU,Closed,,31-01-2024,Maintained school,Community school,1,0,0,3,7,Mixed,Does not apply,Not applicable
+117206,Hertfordshire,919,2198,9192198,Peartree Spring Primary School,Hydean Way,,,Stevenage,SG2 9GG,Open,,,Maintained school,Foundation school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117211,Hertfordshire,919,2203,9192203,Roundwood Primary School,Roundwood Park,,,Harpenden,AL5 3AD,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117214,Hertfordshire,919,2210,9192210,Chambersbury Primary School,Hill Common,Bennetts End,,Hemel Hempstead,HP3 8JH,Open,,,Maintained school,Foundation school,1,0,0,5,11,Mixed,Does not apply,Not applicable
+117217,Hertfordshire,919,2219,9192219,Windermere Primary School,Windermere Avenue,,,St. Albans,AL1 5QP,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117218,Hertfordshire,919,2223,9192223,Anstey First School,Anstey,,,Buntingford,SG9 0BY,Open,,,Maintained school,Community school,1,0,0,2,9,Mixed,Does not apply,Not applicable
+117219,Hertfordshire,919,2224,9192224,Monksmead School,Hillside Avenue,,Monksmead School,Borehamwood,WD6 1HL,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117220,Hertfordshire,919,2225,9192225,Howe Dell Primary School,The Runway,,,Hatfield,AL10 9AH,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117221,Hertfordshire,919,2226,9192226,Almond Hill Junior School,Almonds Lane,,,Stevenage,SG1 3RP,Open,,,Maintained school,Community school,1,0,0,7,11,Mixed,Does not apply,Not applicable
+117222,Hertfordshire,919,2227,9192227,Oakwood Primary School,Oakwood Drive,,,St Albans,AL4 0XA,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117223,Hertfordshire,919,2228,9192228,Northfields Infants and Nursery School,Burley,,,Letchworth Garden City,SG6 4PT,Open,,,Maintained school,Community school,1,0,0,3,7,Mixed,Does not apply,Not applicable
+117224,Hertfordshire,919,2229,9192229,Purwell Primary School,Fairfield Way,,,Hitchin,SG4 0PU,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117227,Hertfordshire,919,2237,9192237,Harwood Hill Junior Mixed Infant and Nursery School,Harwood Close,,,Welwyn Garden City,AL8 7AG,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117229,Hertfordshire,919,2240,9192240,Creswick Primary & Nursery School,Sir John Newsom Way,,,Welwyn Garden City,AL7 4FL,Closed,,31-08-2024,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117230,Hertfordshire,919,2242,9192242,Thorley Hill Primary School,Park Lane,,,Bishop's Stortford,CM23 3NH,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117231,Hertfordshire,919,2243,9192243,Micklem Primary School,Boxted Road,,,Hemel Hempstead,HP1 2QH,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117233,Hertfordshire,919,2250,9192250,Brookland Junior School,Elm Drive,Cheshunt,,Waltham Cross,EN8 0RX,Open,,,Maintained school,Community school,1,0,0,7,11,Mixed,Does not apply,Not applicable
+117234,Hertfordshire,919,2251,9192251,The Reddings Primary School,Bennetts End Road,,,Hemel Hempstead,HP3 8DX,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117235,Hertfordshire,919,2252,9192252,How Wood Primary and Nursery School,Spooners Drive,Park Street,,St Albans,AL2 2HU,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117236,Hertfordshire,919,2253,9192253,Redbourn Primary School,Long Cutt,Redbourn,,St Albans,AL3 7EX,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117242,Hertfordshire,919,2261,9192261,Bushey Manor Junior School,Grange Road,,,Bushey,WD23 2QL,Open,,,Maintained school,Community school,1,0,0,7,11,Mixed,Does not apply,Not applicable
+117243,Hertfordshire,919,2263,9192263,Goffs Oak Primary & Nursery School,Millcrest Road,Goffs Oak,,Waltham Cross,EN7 5NS,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117245,Hertfordshire,919,2266,9192266,Eastbury Farm Primary School,Bishops Avenue,,,Northwood,HA6 3DG,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117249,Hertfordshire,919,2274,9192274,Gade Valley Primary School,Gadebridge Road,,,Hemel Hempstead,HP1 3DT,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117250,Hertfordshire,919,2280,9192280,Cunningham Hill Junior School,Cell Barnes Lane,,,St Albans,AL1 5QJ,Open,,,Maintained school,Community school,1,0,0,7,11,Mixed,Does not apply,Not applicable
+117252,Hertfordshire,919,2283,9192283,Homerswood Primary and Nursery School,Kirklands,,,Welwyn Garden City,AL8 7RF,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117253,Hertfordshire,919,2287,9192287,Whitehill Junior School,Whitehill Road,,,Hitchin,SG4 9HT,Open,,,Maintained school,Community school,1,0,0,7,11,Mixed,Does not apply,Not applicable
+117254,Hertfordshire,919,2288,9192288,Westfield Primary School,Durrants Lane,,,Berkhamsted,HP4 3PJ,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117255,Hertfordshire,919,2289,9192289,Downfield Primary School,Downfield Road,Cheshunt,,Waltham Cross,EN8 8SS,Open,,,Maintained school,Community school,1,0,0,2,11,Mixed,Does not apply,Not applicable
+117256,Hertfordshire,919,2293,9192293,Pixies Hill Primary School,Hazeldell Road,,,Hemel Hempstead,HP1 2BY,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117258,Hertfordshire,919,2299,9192299,The Grove Junior School,Dark Lane,,,Harpenden,AL5 1QB,Open,,,Maintained school,Community school,1,0,0,7,11,Mixed,Does not apply,Not applicable
+117259,Hertfordshire,919,2300,9192300,Pixmore Junior School,Rushby Mead,,,Letchworth,SG6 1RS,Open,,,Maintained school,Community school,1,0,0,7,11,Mixed,Does not apply,Not applicable
+117260,Hertfordshire,919,2301,9192301,Swing Gate Infant School and Nursery,Swing Gate Lane,,,Berkhamsted,HP4 2LJ,Open,,,Maintained school,Community school,1,0,0,3,7,Mixed,Does not apply,Not applicable
+117261,Hertfordshire,919,2302,9192302,Oaklands Primary School,Great North Road,Oaklands,,Welwyn,AL6 0PX,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117263,Hertfordshire,919,2304,9192304,Hollybush Primary School,Fordwich Rise,,,Hertford,SG14 2DF,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117266,Hertfordshire,919,2308,9192308,Maple Cross Junior Mixed Infant and Nursery School,Denham Way,Maple Cross,,Rickmansworth,WD3 9SS,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Non-selective
+117269,Hertfordshire,919,2312,9192312,Moss Bury Primary School and Nursery,Webb Rise,,,Stevenage,SG1 5PA,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117270,Hertfordshire,919,2314,9192314,High Leigh Primary School,Schofield Way,,,Hoddesdon,EN11 8GF,Open,,,Maintained school,Community school,1,0,0,5,11,Mixed,Does not apply,Not applicable
+117271,Hertfordshire,919,2316,9192316,Priors Wood Primary School,Cozens Road,,,Ware,SG12 7HZ,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117272,Hertfordshire,919,2317,9192317,Brookland Infant and Nursery School,Elm Drive,Cheshunt,,Waltham Cross,EN8 0RX,Open,,,Maintained school,Community school,1,0,0,3,7,Mixed,Does not apply,Not applicable
+117274,Hertfordshire,919,2322,9192322,Goldfield Infants' and Nursery School,Christchurch Road,,,Tring,HP23 4EE,Open,,,Maintained school,Community school,1,0,0,3,7,Mixed,Does not apply,Not applicable
+117276,Hertfordshire,919,2326,9192326,Greenway Primary and Nursery School,Crossways,,,Berkhamsted,HP4 3NH,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117277,Hertfordshire,919,2327,9192327,Thorn Grove Primary School,Thorn Grove,,,Bishop's Stortford,CM23 5LD,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117278,Hertfordshire,919,2331,9192331,Icknield Walk First School,Poplar Drive,,,Royston,SG8 7EZ,Open,,,Maintained school,Community school,1,0,0,3,9,Mixed,Does not apply,Not applicable
+117279,Hertfordshire,919,2332,9192332,Cunningham Hill Infant School,Cell Barnes Lane,,,St Albans,AL1 5QJ,Open,,,Maintained school,Community school,1,0,0,5,7,Mixed,Does not apply,Not applicable
+117280,Hertfordshire,919,2333,9192333,Reedings Junior School,Bullfields,,,Sawbridgeworth,CM21 9DD,Open,,,Maintained school,Community school,1,0,0,7,11,Mixed,Does not apply,Not applicable
+117281,Hertfordshire,919,2336,9192336,The Grove Infant and Nursery School,Dark Lane,,,Harpenden,AL5 1QD,Open,,,Maintained school,Community school,1,0,0,3,7,Mixed,Does not apply,Not applicable
+117283,Hertfordshire,919,2338,9192338,Kings Langley Primary School,Common Lane,,,Kings Langley,WD4 8DQ,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117284,Hertfordshire,919,2339,9192339,Forres Primary School,Stanstead Road,,,Hoddesdon,EN11 0RW,Closed,,31-08-2024,Maintained school,Community school,1,0,0,5,11,Mixed,Does not apply,Not applicable
+117289,Hertfordshire,919,2348,9192348,Arnett Hills Junior Mixed and Infant School,Berry Lane,,,Rickmansworth,WD3 4BT,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117290,Hertfordshire,919,2349,9192349,Holywell Primary School,Tolpits Lane,,,Watford,WD18 6LL,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117292,Hertfordshire,919,2353,9192353,Trotts Hill Primary and Nursery School,Wisden Road,,,Stevenage,SG1 5JD,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117293,Hertfordshire,919,2354,9192354,Cassiobury Infant and Nursery School,Bellmount Wood Avenue,,,Watford,WD17 3PE,Open,,,Maintained school,Community school,1,0,0,3,7,Mixed,Does not apply,Not applicable
+117294,Hertfordshire,919,2356,9192356,Panshanger Primary School,Daniells,,,Welwyn Garden City,AL7 1QY,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117296,Hertfordshire,919,2360,9192360,Bournehall Primary School,Bournehall Avenue,,,Bushey,WD23 3AX,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117297,Hertfordshire,919,2362,9192362,Mill Mead Primary School,Mill Mead Primary School Port Vale,,,Hertford,SG14 3AA,Closed,,31-08-2025,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117298,Hertfordshire,919,2364,9192364,Maple Primary School,Hall Place Gardens,,Maple Primary School,St Albans,AL1 3SW,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117302,Hertfordshire,919,2375,9192375,Andrews Lane Primary School,Andrews Lane,Cheshunt,,Waltham Cross,EN7 6LB,Closed,,31-12-2024,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117303,Hertfordshire,919,2378,9192378,Newberries Primary School,Newberries Avenue,,,Radlett,WD7 7EL,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117304,Hertfordshire,919,2379,9192379,Rickmansworth Park Junior Mixed and Infant School,Park Road,,,Rickmansworth,WD3 1HU,Open,,,Maintained school,Community school,1,0,0,5,11,Mixed,Does not apply,Not applicable
+117305,Hertfordshire,919,2380,9192380,Mandeville Primary School,West Road,,,Sawbridgeworth,CM21 0BL,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117306,Hertfordshire,919,2381,9192381,Giles Junior School,Durham Road,,,Stevenage,SG1 4JQ,Open,,,Maintained school,Community school,1,0,0,7,11,Mixed,Does not apply,Not applicable
+117309,Hertfordshire,919,2386,9192386,Millfield First and Nursery School,Monks Walk,,,Buntingford,SG9 9DT,Open,,,Maintained school,Community school,1,0,0,3,9,Mixed,Does not apply,Not applicable
+117310,Hertfordshire,919,2387,9192387,Hillmead Primary School,Woburn Avenue,,,Bishop's Stortford,CM23 4PW,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117311,Hertfordshire,919,2389,9192389,Nascot Wood Junior School,Nascot Wood Road,,,Watford,WD17 4YS,Open,,,Maintained school,Community school,1,0,0,7,11,Mixed,Does not apply,Not applicable
+117313,Hertfordshire,919,2391,9192391,The Ryde School,Pleasant Rise,,,Hatfield,AL9 5DR,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117314,Hertfordshire,919,2392,9192392,William Ransom Primary School,Stuart Drive,,,Hitchin,SG4 9QB,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117315,Hertfordshire,919,2393,9192393,Prae Wood Primary School,King Harry Lane,,,St Albans,AL3 4HZ,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117316,Hertfordshire,919,2394,9192394,The Giles Infant and Nursery School,Durham Road,,,Stevenage,SG1 4JQ,Open,,,Maintained school,Community school,1,0,0,3,7,Mixed,Does not apply,Not applicable
+117317,Hertfordshire,919,2395,9192395,Kingsway Infants' School,North Approach,,,Watford,WD25 0ES,Open,,,Maintained school,Community school,1,0,0,5,7,Mixed,Does not apply,Not applicable
+117319,Hertfordshire,919,2397,9192397,Kingshill Infant School,Heath Drive,,,Ware,SG12 0RL,Open,,,Maintained school,Community school,1,0,0,3,7,Mixed,Does not apply,Not applicable
+117322,Hertfordshire,919,2405,9192405,Woolenwick Junior School,Bridge Road West,,,Stevenage,SG1 2NU,Open,,,Maintained school,Community school,1,0,0,7,11,Mixed,Does not apply,Not applicable
+117323,Hertfordshire,919,2406,9192406,Woolenwick Infant and Nursery School,Bridge Road West,,,Stevenage,SG1 2NU,Open,,,Maintained school,Community school,1,0,0,3,7,Mixed,Does not apply,Not applicable
+117324,Hertfordshire,919,2407,9192407,Leavesden JMI School,High Road,Leavesden,,Watford,WD25 7QZ,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117326,Hertfordshire,919,2411,9192411,Longlands Primary School and Nursery,Nunsbury Drive,Turnford,,Broxbourne,EN10 6AG,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117327,Hertfordshire,919,2412,9192412,The Lea Primary School and Nursery,Moorland Road,,,Harpenden,AL5 4LE,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117328,Hertfordshire,919,2414,9192414,Wheatcroft Primary School,Stanstead Road,,,Hertford,SG13 7HQ,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117329,Hertfordshire,919,2415,9192415,Mary Exton Primary School,St Michael's Road,,,Hitchin,SG4 0QA,Open,,,Maintained school,Community school,1,0,0,5,11,Mixed,Does not apply,Not applicable
+117330,Hertfordshire,919,2416,9192416,Lordship Farm Primary School,Fouracres,,,Letchworth Garden City,SG6 3UF,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117331,Hertfordshire,919,2417,9192417,Studlands Rise First School,Studlands Rise,,,Royston,SG8 9HB,Open,,,Maintained school,Community school,1,0,0,3,9,Mixed,Does not apply,Not applicable
+117333,Hertfordshire,919,2422,9192422,Lime Walk Primary School,Lime Walk,Bennetts End,,Hemel Hempstead,HP3 9LN,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117334,Hertfordshire,919,2424,9192424,Fairfields Primary School and Nursery,Rosedale Way,Cheshunt,,Waltham Cross,EN7 6JG,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117335,Hertfordshire,919,2426,9192426,Aycliffe Drive Primary School,Aycliffe Drive,,,Hemel Hempstead,HP2 6LJ,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117336,Hertfordshire,919,2427,9192427,Holtsmere End Junior School,Shenley Road,,,Hemel Hempstead,HP2 7JZ,Open,,,Maintained school,Community school,1,0,0,7,11,Mixed,Does not apply,Not applicable
+117337,Hertfordshire,919,2428,9192428,Samuel Lucas Junior Mixed and Infant School,Gaping Lane,,,Hitchin,SG5 2JQ,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117340,Hertfordshire,919,2433,9192433,Coates Way JMI and Nursery School,Coates Way,Garston,,Watford,WD25 9NW,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117342,Hertfordshire,919,2437,9192437,High Beeches Primary School,Aldwickbury Crescent,,,Harpenden,AL5 5SD,Open,,,Maintained school,Community school,1,0,0,5,11,Mixed,Does not apply,Not applicable
+117345,Hertfordshire,919,2442,9192442,Stonehill School,Western Close,,,Letchworth Garden City,SG6 4SZ,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117346,Hertfordshire,919,2443,9192443,Richard Whittington Primary School,Thornbera Gardens,,,Bishop's Stortford,CM23 3NP,Closed,,31-08-2024,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117349,Hertfordshire,919,2448,9192448,Brockswood Primary School,Shenley Road,Woodhall Farm,,Hemel Hempstead,HP2 7QH,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117352,Hertfordshire,919,2451,9192451,Ashtree Primary School and Nursery,Chertsey Rise,,,Stevenage,SG2 9JQ,Closed,,31-12-2024,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117353,Hertfordshire,919,2452,9192452,Sheredes Primary School,Benford Road,,,Hoddesdon,EN11 8LL,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117358,Hertfordshire,919,2457,9192457,Wood End School,Yeomans Avenue,,,Harpenden,AL5 3EF,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117361,Hertfordshire,919,2462,9192462,Bengeo Primary School,The Avenue,Bengeo,,Hertford,SG14 3DX,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117363,Hertfordshire,919,2464,9192464,Morgans Primary School & Nursery,Morgans Road,,,Hertford,SG13 8DR,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117364,Hertfordshire,919,2465,9192465,The Leys Primary and Nursery School,Ripon Road,,,Stevenage,SG1 4QZ,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117365,Hertfordshire,919,2466,9192466,Belswains Primary School,Barnfield,,,Hemel Hempstead,HP3 9QJ,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117366,Hertfordshire,919,2467,9192467,Bonneygrove Primary School,Dark Lane,Cheshunt,,Waltham Cross,EN7 5ED,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117367,Hertfordshire,919,2468,9192468,Burleigh Primary School,Blindmans Lane,Cheshunt,,Waltham Cross,EN8 9DP,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117368,Hertfordshire,919,2469,9192469,Hobbs Hill Wood Primary School,Peascroft Road,,,Hemel Hempstead,HP3 8ER,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117369,Hertfordshire,919,2980,9192980,Cranborne Primary School,Laurel Fields,,,Potters Bar,EN6 2BA,Open,,,Maintained school,Foundation school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117370,Hertfordshire,919,2982,9192982,Ladbrooke Junior Mixed and Infant School,Watkins Rise,,,Potters Bar,EN6 1QB,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117371,Hertfordshire,919,2985,9192985,Oakmere Primary School,Chace Avenue,,,Potters Bar,EN6 5NP,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117374,Hertfordshire,919,2991,9192991,Nascot Wood Infant and Nursery School,Nascot Wood Road,,,Watford,WD17 4YT,Open,,,Maintained school,Community school,1,0,0,3,7,Mixed,Does not apply,Not applicable
+117376,Hertfordshire,919,2994,9192994,Hartsfield Junior Mixed and Infant School,Clothall Road,,,Baldock,SG7 6PB,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117377,Hertfordshire,919,2995,9192995,Holtsmere End Infant and Nursery School,Shenley Road,,,Hemel Hempstead,HP2 7JZ,Open,,,Maintained school,Community school,1,0,0,3,7,Mixed,Does not apply,Not applicable
+117378,Hertfordshire,919,2996,9192996,Commonswood Primary & Nursery School,The Commons,,,WELWYN GARDEN CITY,AL7 4RU,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117379,Hertfordshire,919,2997,9192997,Millbrook School,Gews Corner,Cheshunt,,Waltham Cross,EN8 9BX,Open,,,Maintained school,Community school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117382,Hertfordshire,919,3000,9193000,Aldbury Church of England Primary and Nursery School,Stocks Road,Aldbury,,Tring,HP23 5RT,Open,,,Maintained school,Voluntary controlled school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117384,Hertfordshire,919,3004,9193004,St Mary's Infants' School,St Mary's Way,,,Baldock,SG7 6HY,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,7,Mixed,Church of England,Not applicable
+117385,Hertfordshire,919,3005,9193005,St Mary's Junior Mixed School,St Mary's Way,,,Baldock,SG7 6HY,Open,,,Maintained school,Voluntary controlled school,1,0,0,7,11,Mixed,Church of England,Not applicable
+117386,Hertfordshire,919,3006,9193006,Barley (VA) Church of England First School,Church End,Barley,,Royston,SG8 8JW,Open,,,Maintained school,Voluntary aided school,1,0,0,3,9,Mixed,Church of England,Not applicable
+117387,Hertfordshire,919,3007,9193007,Bayford Church of England Voluntary Controlled Primary School,Ashendene Road,Bayford,,Hertford,SG13 8PX,Open,,,Maintained school,Voluntary controlled school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117388,Hertfordshire,919,3008,9193008,Tonwell St Mary's Church of England Primary School,Ware Road,Tonwell,,Ware,SG12 0HN,Closed,,31-08-2024,Maintained school,Voluntary controlled school,1,0,0,2,11,Mixed,Church of England,Not applicable
+117389,Hertfordshire,919,3009,9193009,Benington Church of England Primary School,Walkern Road,Benington,Benington Primary School,Stevenage,SG2 7LP,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+117390,Hertfordshire,919,3011,9193011,Layston Church of England First School,The Causeway,,,Buntingford,SG9 9EU,Open,,,Maintained school,Voluntary controlled school,1,0,0,5,9,Mixed,Church of England,Not applicable
+117391,Hertfordshire,919,3012,9193012,Ashfield Junior School,School Lane,,,Bushey,WD23 1SR,Open,,,Maintained school,Voluntary controlled school,1,0,0,7,11,Mixed,None,Not applicable
+117392,Hertfordshire,919,3013,9193013,Codicote Church of England Primary School,Meadow Way,Codicote,,Hitchin,SG4 8YL,Open,,,Maintained school,Voluntary controlled school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117393,Hertfordshire,919,3015,9193015,Essendon CofE (VC) Primary School,School Lane,,,Essendon,AL9 6HD,Open,,,Maintained school,Voluntary controlled school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117394,Hertfordshire,919,3016,9193016,Furneux Pelham Church of England School,,,Furneux Pelham School,Furneux Pelham,SG9 0LH,Open,,,Maintained school,Voluntary controlled school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117395,Hertfordshire,919,3018,9193018,Graveley Primary School,Ashwell Common,Graveley,,Hitchin,SG4 7LJ,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+117396,Hertfordshire,919,3020,9193020,Ponsbourne St Mary's Church of England Primary School,Newgate Street Village,,,Hertford,SG13 8RA,Open,,,Maintained school,Voluntary controlled school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117397,Hertfordshire,919,3025,9193025,Hertford St Andrew CofE Primary School,Calton Avenue,,,Hertford,SG14 2EP,Open,,,Maintained school,Voluntary controlled school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117398,Hertfordshire,919,3026,9193026,High Wych Church of England Primary School,High Wych,,,Sawbridgeworth,CM21 0JB,Open,,,Maintained school,Voluntary controlled school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117400,Hertfordshire,919,3029,9193029,Wormley CofE Primary School,Cozens Lane East,Wormley,"Wormley Primary School, Cozens Lane East",Broxbourne,EN10 6QA,Open,,,Maintained school,Voluntary controlled school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117401,Hertfordshire,919,3030,9193030,Ickleford Primary School,Arlesey Road,Ickleford,,Hitchin,SG5 3TG,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+117402,Hertfordshire,919,3032,9193032,Little Munden Church of England Voluntary Controlled Primary School,Little Munden Primary School,Church Lane,Dane End,Ware,SG12 0NR,Open,,,Maintained school,Voluntary controlled school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117403,Hertfordshire,919,3034,9193034,Preston Primary School,Back Lane,Preston,,Hitchin,SG4 7UJ,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England,Not applicable
+117405,Hertfordshire,919,3038,9193038,Spellbrook CofE Primary School,London Road,Spellbrook,,Bishop's Stortford,CM23 4BA,Open,,,Maintained school,Voluntary controlled school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117406,Hertfordshire,919,3039,9193039,Roger De Clare First CofE School,Station Road,Puckeridge,,Ware,SG11 1TF,Open,,,Maintained school,Voluntary controlled school,1,0,0,3,9,Mixed,Church of England,Not applicable
+117407,Hertfordshire,919,3040,9193040,St Andrew's Church of England Voluntary Controlled Primary School,Mill Race,Stanstead Abbotts,,Ware,SG12 8BZ,Open,,,Maintained school,Voluntary controlled school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117408,Hertfordshire,919,3041,9193041,Thundridge Church of England Primary School,Ermine Street,Thundridge,Ware,Herts,SG12 0SY,Open,,,Maintained school,Voluntary controlled school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117409,Hertfordshire,919,3042,9193042,St Mary's Voluntary Controlled Church of England Junior School,Heath Drive,,,Ware,SG12 0RL,Open,,,Maintained school,Voluntary controlled school,1,0,0,7,11,Mixed,Church of England,Not applicable
+117410,Hertfordshire,919,3043,9193043,St Catherine's Church of England Primary School,Park Road,,,Ware,SG12 0AW,Open,,,Maintained school,Voluntary controlled school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117413,Hertfordshire,919,3047,9193047,Weston Primary & Nursery School,Maiden Street,Weston,,Hitchin,SG4 7AG,Open,,,Maintained school,Voluntary controlled school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117414,Hertfordshire,919,3049,9193049,Potten End CofE Primary School,Church Road,Potten End,,Berkhamsted,HP4 2QY,Open,,,Maintained school,Voluntary controlled school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117415,Hertfordshire,919,3053,9193053,Dewhurst St Mary CofE Primary School,"94, Churchgate",Cheshunt,,Waltham Cross,EN8 9ND,Open,,,Maintained school,Voluntary controlled school,1,0,0,5,11,Mixed,Church of England,Not applicable
+117416,Hertfordshire,919,3054,9193054,Leverstock Green Church of England Primary School,Green Lane,Leverstock Green,,Hemel Hempstead,HP2 4SA,Open,,,Maintained school,Voluntary controlled school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117417,Hertfordshire,919,3301,9193301,"St Paul's Church of England Primary School, Langleybury",Langleybury Lane,Hunton Bridge,,Kings Langley,WD4 8RJ,Open,,,Maintained school,Voluntary aided school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117418,Hertfordshire,919,3302,9193302,Nash Mills Church of England Primary School,Belswains Lane,Nash Mills,,Hemel Hempstead,HP3 9XB,Open,,,Maintained school,Voluntary aided school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117419,Hertfordshire,919,3303,9193303,Albury Church of England Voluntary Aided Primary School,Church End,,,Albury,SG11 2JQ,Open,,,Maintained school,Voluntary aided school,1,0,0,2,11,Mixed,Church of England,Not applicable
+117420,Hertfordshire,919,3306,9193306,Ardeley St Lawrence Church of England Voluntary Aided Primary School,School Lane,Ardeley,,Stevenage,SG2 7AJ,Open,,,Maintained school,Voluntary aided school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117421,Hertfordshire,919,3307,9193307,Aston St Mary's Church of England Aided Primary School,School Lane,Aston,,Stevenage,SG2 7HA,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+117422,Hertfordshire,919,3308,9193308,Barkway VA Church of England First School,84 High Street,,,Barkway,SG8 8EF,Open,,,Maintained school,Voluntary aided school,1,0,0,4,9,Mixed,Church of England,Not applicable
+117423,Hertfordshire,919,3314,9193314,Victoria Church of England Infant and Nursery School,Prince Edward Street,,,Berkhamsted,HP4 3HA,Open,,,Maintained school,Voluntary aided school,1,0,0,3,7,Mixed,Church of England,Not applicable
+117424,Hertfordshire,919,3315,9193315,"St Mary's CofE Primary School, Northchurch",Northchurch,,,Berkhamsted,HP4 3QZ,Open,,,Maintained school,Voluntary aided school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117426,Hertfordshire,919,3319,9193319,St Michael's Church of England Primary School,St Michael's CE Primary School,Apton Road,,Bishop's Stortford,CM23 3SN,Open,,,Maintained school,Voluntary aided school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117428,Hertfordshire,919,3326,9193326,Holy Trinity Church of England Primary School,Longlands Close,Crossbrook Street,Holy Trinity School,Waltham Cross,EN8 8LU,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+117430,Hertfordshire,919,3329,9193329,"All Saints Church of England Voluntary Aided Primary School, Datchworth",25 Hollybush Lane,Datchworth,,Knebworth,SG3 6RE,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+117431,Hertfordshire,919,3333,9193333,St Nicholas Elstree Church of England VA Primary School,St Nicholas Close,,,Elstree,WD6 3EW,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+117432,Hertfordshire,919,3334,9193334,St John the Baptist Voluntary Aided Church of England Primary School,Hillside Lane,Great Amwell,,Ware,SG12 9SE,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+117433,Hertfordshire,919,3335,9193335,Great Gaddesden Church of England Primary School,Church Meadow,Great Gaddesden,Great Gaddesden Primary School,Hemel Hempstead,HP1 3BT,Open,,,Maintained school,Voluntary aided school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117434,Hertfordshire,919,3336,9193336,St Nicholas CofE VA Primary School,Church Green,,,Harpenden,AL5 2TP,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+117435,Hertfordshire,919,3339,9193339,"St John's Voluntary Aided Church of England Primary School, Lemsford",Lemsford Village,,St John's C of E Primary School,Welwyn Garden City,AL8 7TR,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+117437,Hertfordshire,919,3344,9193344,Broxbourne CofE Primary School,Mill Lane,,,Broxbourne,EN10 7AY,Open,,,Maintained school,Voluntary aided school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117439,Hertfordshire,919,3347,9193347,Hormead Church of England (VA) First School,Great Hormead,,,Buntingford,SG9 0NR,Open,,,Maintained school,Voluntary aided school,1,0,0,2,9,Mixed,Church of England,Not applicable
+117440,Hertfordshire,919,3348,9193348,St Ippolyts Church of England Aided Primary School,Ashbrook Lane,St Ippolyts,,Hitchin,SG4 7PB,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+117441,Hertfordshire,919,3349,9193349,"St Paul's Church of England Voluntary Aided Primary School, Chipperfield",The Common,Chipperfield,,Kings Langley,WD4 9BS,Open,,,Maintained school,Voluntary aided school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117442,Hertfordshire,919,3350,9193350,Norton St Nicholas CofE (VA) Primary School,Norton Road,,,Letchworth Garden City,SG6 1AG,Open,,,Maintained school,Voluntary aided school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117443,Hertfordshire,919,3352,9193352,Little Gaddesden Church of England Voluntary Aided Primary School,Church Road,Little Gaddesden,,Berkhamsted,HP4 1NX,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+117444,Hertfordshire,919,3353,9193353,St Andrew's CE Primary School and Nursery,Tower Hill,,,Much Hadham,SG10 6DL,Open,,,Maintained school,Voluntary aided school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117445,Hertfordshire,919,3357,9193357,Offley Endowed Primary School and Nursery,School Lane,Offley,,Hitchin,SG5 3AT,Open,,,Maintained school,Voluntary aided school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117446,Hertfordshire,919,3358,9193358,Cockernhoe Endowed CofE Primary School,Cockernhoe Green,,,Luton,LU2 8PY,Open,,,Maintained school,Voluntary aided school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117447,Hertfordshire,919,3359,9193359,"St Mary's Church of England Primary School, Rickmansworth",Stockers Farm Road,,St Mary's Church of England Primary School,Rickmansworth,WD3 1NY,Closed,,31-03-2024,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+117448,Hertfordshire,919,3360,9193360,St Peter's Church of England Voluntary Aided Primary School,Church Lane,Mill End,,Rickmansworth,WD3 8HD,Open,,,Maintained school,Voluntary aided school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117449,Hertfordshire,919,3361,9193361,"The Abbey Church of England Voluntary Aided Primary School, St Albans",Grove Road,,,St Albans,AL1 1DQ,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+117451,Hertfordshire,919,3363,9193363,"St Michael's Church of England Voluntary Aided Primary School, St Albans",St Michael's Street,,,St Albans,AL3 4SJ,Open,,,Maintained school,Voluntary aided school,1,0,0,5,11,Mixed,Church of England,Not applicable
+117452,Hertfordshire,919,3364,9193364,Park Street Church of England Voluntary Aided Primary School,Branch Road,Park Street,,St Albans,AL2 2LX,Open,,,Maintained school,Voluntary aided school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117453,Hertfordshire,919,3366,9193366,"Puller Memorial, Church of England, Voluntary Aided Primary School",High Cross,,,Ware,SG11 1AZ,Open,,,Maintained school,Voluntary aided school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117455,Hertfordshire,919,3368,9193368,Stapleford Primary School,Church Lane,Stapleford,,Hertford,SG14 3NB,Open,,,Maintained school,Voluntary aided school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117456,Hertfordshire,919,3369,9193369,St Nicholas CofE (VA) Primary School and Nursery,Six Hills Way,,,Stevenage,SG2 0PZ,Open,,,Maintained school,Voluntary aided school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117457,Hertfordshire,919,3370,9193370,Tewin Cowper Church of England Voluntary Aided Primary School,Cannons Meadow,Tewin,Tewin Cowper Ce Primary School Va,Welwyn,AL6 0JU,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+117458,Hertfordshire,919,3371,9193371,"Bishop Wood Church of England Junior School, Tring",Frogmore Street,,,Tring,HP23 5AU,Open,,,Maintained school,Voluntary aided school,1,0,0,7,11,Mixed,Church of England,Not applicable
+117459,Hertfordshire,919,3373,9193373,Long Marston VA Church of England Primary and Nursery School,Station Road,Long Marston,,Tring,HP23 4QS,Open,,,Maintained school,Voluntary aided school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117460,Hertfordshire,919,3376,9193376,St John's CofE Primary School,Hertford Road,Digswell,,Welwyn,AL6 0BX,Open,,,Maintained school,Voluntary aided school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117461,Hertfordshire,919,3378,9193378,St Michael's Woolmer Green CofE VA Primary School,London Road,,,Woolmer Green,SG3 6JP,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+117462,Hertfordshire,919,3379,9193379,St Helen's Church of England Primary School,Brewhouse Hill,Wheathampstead,,St Albans,AL4 8AN,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+117463,Hertfordshire,919,3380,9193380,"St Bartholomew's Church of England Voluntary Aided Primary School, Wigginton",Common Field,Wigginton,,Tring,HP23 6EP,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+117464,Hertfordshire,919,3382,9193382,Our Lady Catholic Primary School,Woodhall Lane,,,Welwyn Garden City,AL7 3TF,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Roman Catholic,Not applicable
+117465,Hertfordshire,919,3383,9193383,St Joseph Catholic Primary School,Ainsdale Road,South Oxhey,,Watford,WD19 7DW,Open,,,Maintained school,Voluntary aided school,1,0,0,3,11,Mixed,Roman Catholic,Not applicable
+117466,Hertfordshire,919,3384,9193384,St Teresa Catholic Primary School,Brook Road,,,Borehamwood,WD6 5HL,Open,,,Maintained school,Voluntary aided school,1,0,0,3,11,Mixed,Catholic,Not applicable
+117467,Hertfordshire,919,3385,9193385,"St Andrew's Church of England Voluntary Aided Primary School, Hitchin",Benslow Lane,,,Hitchin,SG4 9RD,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+117468,Hertfordshire,919,3386,9193386,St Cuthbert Mayne Catholic Junior School,Clover Way,Gadebridge Road,,Hemel Hempstead,HP1 3EA,Closed,,30-06-2024,Maintained school,Voluntary aided school,1,0,0,7,11,Mixed,Roman Catholic,Non-selective
+117469,Hertfordshire,919,3388,9193388,St Philip Howard Catholic Primary School,Woods Avenue,,,Hatfield,AL10 8NN,Open,,,Maintained school,Voluntary aided school,1,0,0,3,11,Mixed,Roman Catholic,Not applicable
+117470,Hertfordshire,919,3389,9193389,St Adrian Roman Catholic Primary School,Watling View,,,St Albans,AL1 2PB,Open,,,Maintained school,Voluntary aided school,1,0,0,3,11,Mixed,Roman Catholic,Not applicable
+117472,Hertfordshire,919,3393,9193393,"All Saints Church of England Primary School and Nursery, Bishop's Stortford",Parsonage Lane,,,Bishop's Stortford,CM23 5BE,Open,,,Maintained school,Voluntary aided school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117473,Hertfordshire,919,3394,9193394,Christ Church CofE (VA) Primary School and Nursery,New Road,,,Ware,SG12 7BT,Open,,,Maintained school,Voluntary aided school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117474,Hertfordshire,919,3397,9193397,St Margaret Clitherow Roman Catholic Primary School,Monkswood Lane,(Off Monkswood Way),,Stevenage,SG2 8QJ,Open,,,Maintained school,Voluntary aided school,1,0,0,3,11,Mixed,Roman Catholic,Not applicable
+117478,Hertfordshire,919,3401,9193401,St Dominic Catholic Primary School,St Dominic Catholic Primary School,Southdown Road,,HARPENDEN,AL5 1PF,Closed,,31-05-2025,Maintained school,Voluntary aided school,1,0,0,3,11,Mixed,Roman Catholic,Not applicable
+117481,Hertfordshire,919,3404,9193404,The Holy Family Catholic Primary School,Crookhams,,,Welwyn Garden City,AL7 1PG,Closed,,30-06-2025,Maintained school,Voluntary aided school,1,0,0,3,11,Mixed,Roman Catholic,Not applicable
+117484,Hertfordshire,919,3409,9193409,St Rose's Catholic Infants School,Green End Road,Boxmoor,,Hemel Hempstead,HP1 1QW,Closed,,31-03-2024,Maintained school,Voluntary aided school,1,0,0,3,7,Mixed,Roman Catholic,Not applicable
+117488,Hertfordshire,919,3415,9193415,Sacred Heart Catholic Primary School and Nursery,Merry Hill Road,,,Bushey,WD23 1SU,Open,,,Maintained school,Voluntary aided school,1,0,0,3,11,Mixed,Roman Catholic,Not applicable
+117489,Hertfordshire,919,3416,9193416,Saint Bernadette Catholic Primary School,Walsingham Way,London Colney,,St Albans,AL2 1NL,Closed,,30-06-2024,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Roman Catholic,Not applicable
+117490,Hertfordshire,919,3419,9193419,Welwyn St Mary's Church of England Voluntary Aided Primary School,15 London Road,,,Welwyn,AL6 9DJ,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+117491,Hertfordshire,919,3421,9193421,St Alban & St Stephen Catholic Primary School & Nursery,"St Alban & St Stephen Catholic Primary School, Cecil Road",,,St Albans,AL1 5EG,Open,,,Maintained school,Voluntary aided school,1,0,0,3,11,Mixed,Roman Catholic,Not applicable
+117492,Hertfordshire,919,3423,9193423,St Paul's Catholic Primary School,Park Lane,,,Cheshunt,EN7 6LR,Closed,,30-06-2025,Maintained school,Voluntary aided school,1,0,0,3,11,Mixed,Roman Catholic,Not applicable
+117495,Hertfordshire,919,3428,9193428,St Anthony's Catholic Primary School,Croxley View,,,Watford,WD18 6BW,Open,,,Maintained school,Voluntary aided school,1,0,0,3,11,Mixed,Roman Catholic,Not applicable
+117496,Hertfordshire,919,3975,9193975,Pope Paul Catholic Primary School,Baker Street,,,Potters Bar,EN6 2ES,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Roman Catholic,Not applicable
+117497,Hertfordshire,919,3976,9193976,"St Mary's Church of England VA Primary School, Welham Green",Dellsome Lane,Welham Green,,Hatfield,AL9 7NE,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+117498,Hertfordshire,919,3977,9193977,Saint Vincent de Paul Catholic Primary School,Bedwell Crescent,,,Stevenage,SG1 1NJ,Closed,,30-06-2025,Maintained school,Voluntary aided school,1,0,0,3,11,Mixed,Roman Catholic,Not applicable
+117499,Hertfordshire,919,4000,9194000,The Priory School,Bedford Road,,,Hitchin,SG5 2UR,Open,,,Maintained school,Foundation school,0,1,1,11,18,Mixed,Does not apply,Non-selective
+117504,Hertfordshire,919,4010,9194010,Fearnhill School,Icknield Way West,,,Letchworth,SG6 4BA,Open,,,Maintained school,Foundation school,0,1,1,11,18,Mixed,Does not apply,Non-selective
+117518,Hertfordshire,919,4066,9194066,Barnwell School,Barnwell,,,Stevenage,SG2 9SW,Open,,,Maintained school,Foundation school,0,1,1,11,18,Mixed,Does not apply,Non-selective
+117530,Hertfordshire,919,4104,9194104,The Nobel School,Mobbsbury Way,,,Stevenage,SG2 0HS,Open,,,Maintained school,Foundation school,0,1,1,11,18,Mixed,Does not apply,Non-selective
+117534,Hertfordshire,919,4116,9194116,Marriotts School,Brittain Way,,,Stevenage,SG2 8UT,Open,,,Maintained school,Community school,0,1,1,11,18,Mixed,Does not apply,Non-selective
+117537,Hertfordshire,919,4122,9194122,The Highfield School,Highfield,,,Letchworth Garden City,SG6 3QA,Closed,,31-12-2023,Maintained school,Foundation school,0,1,1,11,18,Mixed,Does not apply,Non-selective
+117541,Hertfordshire,919,4144,9194144,Bridgewater Primary School,Bridle Way,Billet Lane,,Berkhamsted,HP4 1ES,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+117552,Hertfordshire,919,4499,9194499,The Astley Cooper School,St Agnell's Lane,,,Hemel Hempstead,HP2 7HL,Open,,,Maintained school,Community school,0,1,1,11,18,Mixed,Does not apply,Non-selective
+117554,Hertfordshire,919,4506,9194506,Edwinstree Church of England Middle School,Norfolk Road,,,Buntingford,SG9 9AW,Open,,,Maintained school,Voluntary controlled school,1,1,0,9,13,Mixed,Church of England,Not applicable
+117555,Hertfordshire,919,4606,9194606,Townsend Church of England School,High Oaks,,,St Albans,AL3 6DR,Open,,,Maintained school,Voluntary aided school,0,1,1,11,18,Mixed,Church of England,Non-selective
+117559,Hertfordshire,919,4627,9194627,The Thomas Coram Church of England School,Swing Gate Lane,,,Berkhamsted,HP4 2RP,Open,,,Maintained school,Voluntary aided school,1,0,0,7,11,Mixed,Church of England,Not applicable
+117562,Hertfordshire,919,5202,9195202,Parkside Community Primary School,Aycliffe Road,,,Borehamwood,WD6 4EP,Open,,,Maintained school,Foundation school,1,0,0,3,11,Mixed,None,Not applicable
+117563,Hertfordshire,919,5203,9195203,Hertingfordbury Cowper Primary School,Birch Green,,,Hertford,SG14 2LR,Open,,,Maintained school,Voluntary aided school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117564,Hertfordshire,919,5204,9195204,St Giles' CofE Primary School,Blanche Lane,South Mimms,,Potters Bar,EN6 3PE,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Church of England,Not applicable
+117565,Hertfordshire,919,5205,9195205,Cuffley School,Theobalds Road,Cuffley,,Potters Bar,EN6 4HN,Open,,,Maintained school,Foundation school,1,0,0,3,11,Mixed,None,Not applicable
+117567,Hertfordshire,919,5207,9195207,Little Heath Primary School,School Road,,,Potters Bar,EN6 1JW,Open,,,Maintained school,Foundation school,1,0,0,3,11,Mixed,None,Not applicable
+117569,Hertfordshire,919,5209,9195209,Northaw Church of England Primary School,Vineyards Road,Northaw,,Potters Bar,EN6 4PB,Open,,,Maintained school,Voluntary aided school,1,0,0,3,11,Mixed,Church of England,Not applicable
+117570,Hertfordshire,919,5210,9195210,Brookmans Park Primary School,Bradmore Way,Brookmans Park,,Hatfield,AL9 7QY,Open,,,Maintained school,Foundation school,1,0,0,4,11,Mixed,None,Not applicable
+117577,Hertfordshire,919,5405,9195405,The Bishop's Stortford High School,Beaumont Avenue,,,Bishop's Stortford,CM23 4SH,Open,,,Maintained school,Foundation school,0,1,1,11,18,Boys,None,Non-selective
+117578,Hertfordshire,919,5406,9195406,Ashlyns School,Chesham Road,,,Berkhamsted,HP4 3AH,Open,,,Maintained school,Foundation school,0,1,1,11,18,Mixed,None,Non-selective
+117600,Hertfordshire,919,6000,9196000,Abbot's Hill School,Bunkers Lane,,,Hemel Hempstead,HP3 8RP,Open,,,Independent school,Other independent school,1,1,0,0,16,Mixed,None,Not applicable
+117601,Hertfordshire,919,6002,9196002,Edge Grove School,High Cross,Aldenham,,Watford,WD25 8NL,Open,,,Independent school,Other independent school,1,1,0,2,13,Mixed,None,Selective
+117602,Hertfordshire,919,6003,9196003,Aldenham School,Elstree,,,Elstree,WD6 3AJ,Open,,,Independent school,Other independent school,1,1,1,3,19,Mixed,Church of England,Not applicable
+117604,Hertfordshire,919,6005,9196005,Berkhamsted School,Overton House,133 High Street,,Berkhamsted,HP4 2DJ,Open,,,Independent school,Other independent school,0,1,1,11,19,Mixed,Anglican/Christian,Not applicable
+117605,Hertfordshire,919,6007,9196007,Bishop's Stortford College,School House,Maze Green Road,,Bishop's Stortford,CM23 2PQ,Open,,,Independent school,Other independent school,1,1,1,3,18,Mixed,None,Not applicable
+117606,Hertfordshire,919,6012,9196012,St Margaret's School,Merry Hill Road,,,Bushey,WD23 1DT,Open,,,Independent school,Other independent school,1,1,1,2,18,Mixed,None,Not applicable
+117607,Hertfordshire,919,6015,9196015,Haileybury College,,,,Hertford,SG13 7NU,Open,,,Independent school,Other independent school,0,1,1,11,18,Mixed,Church of England,Not applicable
+117608,Hertfordshire,919,6016,9196016,Aldwickbury School,Aldwickbury School,Wheathampstead Road,Harpenden,,AL5 1AD,Open,,,Independent school,Other independent school,1,1,0,4,13,Mixed,None,Non-selective
+117609,Hertfordshire,919,6020,9196020,Queenswood School,Shepherd's Way,Brookmans Park,,Hatfield,AL9 6NS,Open,,,Independent school,Other independent school,0,1,1,11,18,Girls,Methodist,Selective
+117610,Hertfordshire,919,6021,9196021,Westbrook Hay,Westbrook Hay,London Road,Hemel Hempstead,,HP1 2RF,Open,,,Independent school,Other independent school,1,1,0,3,16,Mixed,None,Not applicable
+117611,Hertfordshire,919,6024,9196024,Lockers Park School,Lockers Park Lane,,,Hemel Hempstead,HP1 1TL,Open,,,Independent school,Other independent school,1,1,0,5,14,Boys,Church of England,Not applicable
+117612,Hertfordshire,919,6028,9196028,St Christopher School,Barrington Road,,,Letchworth Garden City,SG6 3JZ,Open,,,Independent school,Other independent school,1,1,1,2,18,Mixed,None,Non-selective
+117613,Hertfordshire,919,6029,9196029,St Francis College,Broadway,,,Letchworth Garden City,SG6 3PJ,Open,,,Independent school,Other independent school,1,1,1,3,18,Girls,Christian,Selective
+117615,Hertfordshire,919,6034,9196034,Radlett Preparatory School Ltd,Kendal Hall,Watling Street,Radlett,Herts,WD7 7LY,Open,,,Independent school,Other independent school,1,0,0,4,11,Mixed,None,Not applicable
+117616,Hertfordshire,919,6036,9196036,Merchant Taylors' School,Sandy Lodge,Northwood,Middlesex,Northwood,HA6 2HT,Open,,,Independent school,Other independent school,0,1,1,11,18,Boys,None,Selective
+117617,Hertfordshire,919,6038,9196038,St Albans High School for Girls,Townsend Avenue,St Albans,Hertfordshire,,AL1 3SJ,Open,,,Independent school,Other independent school,1,1,1,4,18,Girls,Anglican,Selective
+117618,Hertfordshire,919,6041,9196041,Tring Park School for the Performing Arts,Mansion Drive,,,Tring,HP23 5LX,Open,,,Independent school,Other independent school,1,1,1,7,19,Mixed,None,Not applicable
+117620,Hertfordshire,919,6045,9196045,Beechwood Park School,Markyate,,,St Albans,AL3 8AW,Open,,,Independent school,Other independent school,1,1,0,2,13,Mixed,None,Non-selective
+117621,Hertfordshire,919,6046,9196046,Heath Mount School,Woodhall Park,Watton At Stone,,Hertford,SG14 3NG,Open,,,Independent school,Other independent school,1,1,0,2,13,Mixed,None,Non-selective
+117622,Hertfordshire,919,6047,9196047,Sherrardswood School,Lockleys,,,Welwyn,AL6 0BJ,Open,,,Independent school,Other independent school,1,1,1,3,19,Mixed,,Non-selective
+117623,Hertfordshire,919,6062,9196062,Egerton-Rothesay School,Durrants Lane,,,Berkhamsted,HP4 3UJ,Open,,,Independent school,Other independent school,1,1,1,6,19,Mixed,Christian,Non-selective
+117624,Hertfordshire,919,6080,9196080,St Hilda's School,High Street,,,Bushey,WD23 3DA,Closed,,04-07-2025,Independent school,Other independent school,1,0,0,2,11,Mixed,None,Selective
+117627,Hertfordshire,919,6092,9196092,St Hilda's School,28 Douglas Road,,,Harpenden,AL5 2ES,Open,,,Independent school,Other independent school,1,0,0,2,11,Girls,None,Non-selective
+117628,Hertfordshire,919,6098,9196098,Duncombe School,4 Warren Park Road,Bengeo,,Hertford,SG14 3JA,Open,,,Independent school,Other independent school,1,0,0,2,11,Mixed,None,Not applicable
+117629,Hertfordshire,919,6099,9196099,St Joseph's in the Park,St Mary's Lane,Hertingfordbury,,Hertford,SG14 2LX,Open,,,Independent school,Other independent school,1,0,0,3,11,Mixed,None,Non-selective
+117630,Hertfordshire,919,6102,9196102,Kingshott School,Stevenage Road,St Ippolyts,,Hitchin,SG4 7JX,Open,,,Independent school,Other independent school,1,1,0,3,16,Mixed,None,Selective
+117633,Hertfordshire,919,6115,9196115,St Edmund's College,Old Hall Green,,,Ware,SG11 1DS,Open,,,Independent school,Other independent school,1,1,1,3,19,Mixed,Roman Catholic,Selective
+117635,Hertfordshire,919,6126,9196126,Charlotte House Preparatory School,88 The Drive,,,Rickmansworth,WD3 4DU,Open,,,Independent school,Other independent school,1,0,0,3,11,Girls,None,Non-selective
+117636,Hertfordshire,919,6128,9196128,York House School,Sarratt Road,Croxley Green,Rickmansworth,,WD3 4LW,Open,,,Independent school,Other independent school,1,1,0,3,13,Mixed,None,Selective
+117638,Hertfordshire,919,6136,9196136,St Columba's College,King Harry Lane,,,St Albans,AL3 4AW,Open,,,Independent school,Other independent school,1,1,1,4,18,Mixed,Roman Catholic,Not applicable
+117640,Hertfordshire,919,6154,9196154,Stanborough Secondary School,Stanborough Park,,,Watford,WD25 9JT,Open,,,Independent school,Other independent school,0,1,1,11,18,Mixed,Seventh Day Adventist,Non-selective
+117641,Hertfordshire,919,6165,9196165,Royal Masonic School for Girls,Rickmansworth Park,Chorleywood Road,,Rickmansworth,WD3 4HF,Open,,,Independent school,Other independent school,1,1,1,2,19,Girls,None,Not applicable
+117643,Hertfordshire,919,6201,9196201,Lochinver House School,Heath Road,Potters Bar,Hertfordshire,Potters Bar,EN6 1LW,Open,,,Independent school,Other independent school,1,1,0,3,13,Mixed,None,Selective
+117644,Hertfordshire,919,6202,9196202,Stormont School,The Causeway,,,Potters Bar,EN6 5HA,Open,,,Independent school,Other independent school,1,0,0,4,11,Girls,None,Non-selective
+117646,Hertfordshire,919,6215,9196215,Radlett Lodge School,Harper Lane,,,Radlett,WD7 9HW,Open,,,Special school,Other independent special school,1,1,1,5,19,Mixed,None,Selective
+117647,Hertfordshire,919,6220,9196220,St Albans School,Abbey Gateway,,,St Albans,AL3 4HB,Open,,,Independent school,Other independent school,0,1,1,11,19,Boys,Christian/non-denominational,Not applicable
+117648,Hertfordshire,919,6221,9196221,Haberdashers' Boys' School,Butterfly Lane,Elstree,Hertfordshire,,WD6 3AF,Open,,,Independent school,Other independent school,1,1,1,4,18,Boys,None,Not applicable
+117649,Hertfordshire,919,6222,9196222,Haberdashers' Girls' School,Aldenham Road,Elstree,Hertfordshire,Borehamwood,WD6 3BT,Open,,,Independent school,Other independent school,1,1,1,4,18,Girls,None,Selective
+117650,Hertfordshire,919,6224,9196224,The King's School,Elmfield,Ambrose Lane,,Harpenden,AL5 4DU,Open,,,Independent school,Other independent school,1,1,0,4,16,Mixed,Christian,Non-selective
+117651,Hertfordshire,919,6225,9196225,Merchant Taylors' Prep School,Moor Farm,Sandy Lodge Road,,Rickmansworth,WD3 1LW,Open,,,Independent school,Other independent school,1,1,0,3,13,Boys,Christian,Selective
+117653,Hertfordshire,919,6227,9196227,Berkhamsted Prep and Pre-Prep School,Chesham Road,,,Berkhamsted,HP4 2SZ,Open,,,Independent school,Other independent school,1,0,0,1,11,Mixed,None,Non-selective
+117654,Hertfordshire,919,6228,9196228,Gurukula - The Hare Krishna Primary School,Hartspring Cottage,Elton Way,Watford,Hertfordshire,WD25 8HB,Open,,,Independent school,Other independent school,1,0,0,4,11,Mixed,Hindu,Non-selective
+117657,Hertfordshire,919,6231,9196231,Immanuel College,87-91 Elstree Road,,,Bushey,WD23 4EB,Open,,,Independent school,Other independent school,1,1,1,9,19,Mixed,Jewish,Not applicable
+117658,Hertfordshire,919,6232,9196232,Manor Lodge School,Rectory Lane,Ridge Hill,,Shenley,WD7 9BG,Open,,,Independent school,Other independent school,1,0,0,2,11,Mixed,None,Selective
+117662,Hertfordshire,919,6236,9196236,Longwood School,Bushey Hall Drive,,,Bushey,WD23 2QG,Open,,,Independent school,Other independent school,1,0,0,3,11,Mixed,None,Non-selective
+117665,Hertfordshire,919,7006,9197006,St Elizabeth's School,South End,,,Much Hadham,SG10 6EW,Open,,,Special school,Non-maintained special school,1,1,1,5,19,Mixed,Does not apply,Not applicable
+117667,Hertfordshire,919,7008,9197008,Garston Manor School,Horseshoe Lane,Garston,,Watford,WD25 7HR,Open,,,Special school,Community special school,0,1,0,11,16,Mixed,Does not apply,Not applicable
+117669,Hertfordshire,919,7010,9197010,The Valley School,Broadhall Way,,,Stevenage,SG2 9BN,Open,,,Special school,Community special school,0,1,0,11,16,Mixed,Does not apply,Not applicable
+117670,Hertfordshire,919,7011,9197011,Colnbrook School,Hayling Road,,,Watford,WD19 7UY,Open,,,Special school,Community special school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117671,Hertfordshire,919,7012,9197012,St Luke's School,Crouch Hall Lane,Redbourn,,St Albans,AL3 7ET,Open,,,Special school,Foundation special school,1,1,0,7,16,Mixed,Does not apply,Not applicable
+117672,Hertfordshire,919,7013,9197013,The Collett School,Lockers Park Lane,,,Hemel Hempstead,HP1 1TQ,Open,,,Special school,Community special school,1,1,0,4,16,Mixed,Does not apply,Not applicable
+117674,Hertfordshire,919,7016,9197016,Batchwood School,Townsend Drive,,,St Albans,AL3 5RP,Open,,,Special school,Community special school,0,1,0,11,16,Mixed,Does not apply,Not applicable
+117676,Hertfordshire,919,7019,9197019,Middleton School,Walnut Tree Walk,,,Ware,SG12 9PD,Open,,,Special school,Community special school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+117679,Hertfordshire,919,7022,9197022,Lonsdale School,Brittain Way,,,Stevenage,SG2 8UT,Open,,,Special school,Community special school,1,1,1,3,18,Mixed,Does not apply,Not applicable
+117680,Hertfordshire,919,7023,9197023,Lakeside School,Lemsford Lane,,,Welwyn Garden City,AL8 6YN,Open,,,Special school,Community special school,1,1,1,2,19,Mixed,Does not apply,Not applicable
+117681,Hertfordshire,919,7024,9197024,Breakspeare School,Gallows Hill Lane,,,Abbots Langley,WD5 0BU,Open,,,Special school,Community special school,1,1,1,2,19,Mixed,Does not apply,Not applicable
+117682,Hertfordshire,919,7025,9197025,Woodfield School,Malmes Croft,Leverstock Green,,Hemel Hempstead,HP3 8RL,Open,,,Special school,Community special school,1,1,1,3,19,Mixed,Does not apply,Not applicable
+117683,Hertfordshire,919,7026,9197026,Watling View School,Watling View,,,St Albans,AL1 2NU,Open,,,Special school,Community special school,1,1,1,2,19,Mixed,Does not apply,Not applicable
+117684,Hertfordshire,919,7028,9197028,Amwell View School,Station Road,Stanstead Abbotts,,Ware,SG12 8EH,Open,,,Special school,Community special school,1,1,1,2,19,Mixed,Does not apply,Not applicable
+117685,Hertfordshire,919,7032,9197032,Heathlands School,Heathlands Drive,,,St Albans,AL3 5AY,Open,,,Special school,Community special school,1,1,1,3,18,Mixed,Does not apply,Not applicable
+117686,Hertfordshire,919,7033,9197033,Falconer School,Falconer Road,,,Bushey,WD23 3AT,Open,,,Special school,Community special school,0,1,0,11,16,Boys,Does not apply,Not applicable
+117690,Hertfordshire,919,7042,9197042,Greenside School,Shephall Green,,,Stevenage,SG2 9XS,Open,,,Special school,Community special school,1,1,1,2,19,Mixed,Does not apply,Not applicable
+117691,Hertfordshire,919,7043,9197043,Meadow Wood School,Coldharbour Lane,,,Bushey,WD23 4NN,Open,,,Special school,Community special school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+130362,Hertfordshire,919,7044,9197044,Southfield School,Woods Avenue,,,Hatfield,AL10 8NN,Open,,,Special school,Community special school,1,0,0,4,11,Mixed,Does not apply,Not applicable
+130720,Hertfordshire,919,8019,9198019,West Herts College,Watford Campus,Hempstead Road,,Watford,WD17 3EZ,Open,,,College,Further education,0,0,1,16,99,Mixed,Does not apply,Not applicable
+130721,Hertfordshire,919,8020,9198020,North Hertfordshire College,Monkswood Way,,,Stevenage,SG1 1LA,Open,,,College,Further education,0,0,1,16,99,Mixed,Does not apply,Not applicable
+130722,Hertfordshire,919,8021,9198021,Hertford Regional College,Scotts Road,,,Ware,SG12 9JF,Open,,,College,Further education,0,0,1,16,99,Mixed,Does not apply,Not applicable
+130723,Hertfordshire,919,8022,9198022,Oaklands College,Oaklands Campus,Hatfield Road,,St Albans,AL4 0JA,Open,,,College,Further education,0,0,1,16,99,Mixed,Does not apply,Not applicable
+131319,Hertfordshire,919,7047,9197047,Haywood Grove School,St Agnell's Lane,,,Hemel Hempstead,HP2 7BG,Open,,,Special school,Community special school,1,0,0,5,11,Mixed,Does not apply,Not applicable
+131456,Hertfordshire,919,5213,9195213,Clore Shalom School,Hugo Gryn Way,,,Shenley,WD7 9BL,Open,,,Maintained school,Voluntary aided school,1,0,0,4,11,Mixed,Jewish,Not applicable
+131505,Hertfordshire,919,2005,9192005,Featherstone Wood Primary School,Featherston Road,,,Stevenage,SG2 9PP,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+132091,Hertfordshire,919,2008,9192008,Lodge Farm Primary School,Mobbsbury Way,Chells,,Stevenage,SG2 0HP,Open,,,Maintained school,Foundation school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+132105,Hertfordshire,919,2007,9192007,Birchwood Avenue Primary School,Birchwood Avenue,,,Hatfield,AL10 0PS,Open,,,Maintained school,Community school,1,0,0,5,11,Mixed,Does not apply,Not applicable
+133323,Hertfordshire,919,2026,9192026,Oughton Primary and Nursery School,Mattocke Road,,,Hitchin,SG5 2NZ,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+133488,Hertfordshire,919,2027,9192027,Swallow Dell Primary and Nursery School,Blackthorn Road,,,Welwyn Garden City,AL7 3JP,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+133773,Hertfordshire,919,3978,9193978,St Catherine's Hoddesdon CofE Primary School,Haslewood Avenue,,,Hoddesdon,EN11 8HT,Open,,,Maintained school,Voluntary controlled school,1,0,0,4,11,Mixed,Church of England/Christian,Not applicable
+134087,Hertfordshire,919,6243,9196243,St Albans Independent College,69 London Road,,,St Albans,AL1 1LN,Open,,,Independent school,Other independent school,0,1,1,14,19,Mixed,None,Not applicable
+135083,Hertfordshire,919,3983,9193983,Longmeadow Primary School,Oaks Cross,Broadwater,,Stevenage,SG2 8LT,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+135084,Hertfordshire,919,3984,9193984,Shephalbury Park Primary School,Burydale,Broadwater,,Stevenage,SG2 8AX,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+135221,Hertfordshire,919,3987,9193987,Maple Grove Primary School,St Agnell's Lane,Grove Hill,,Hemel Hempstead,HP2 7BG,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+135222,Hertfordshire,919,3988,9193988,Yewtree Primary School,Fletcher Way,,,Hemel Hempstead,HP2 5QR,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+135223,Hertfordshire,919,3989,9193989,Oak View Primary and Nursery School,Woods Avenue,,,Hatfield,AL10 8NW,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+135224,Hertfordshire,919,3990,9193990,Galley Hill Primary School and Nursery,Galley Hill,,,Hemel Hempstead,HP1 3JY,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+135528,Hertfordshire,919,3992,9193992,Killigrew Primary and Nursery School,West Avenue,,,St Albans,AL2 3HD,Open,,,Maintained school,Community school,1,0,0,3,11,Mixed,Does not apply,Not applicable
+135596,Hertfordshire,919,6261,9196261,Stanborough Primary School,Appletree Walk,,,Watford,WD25 0DQ,Open,,,Independent school,Other independent school,1,0,0,2,11,Mixed,None,Non-selective
+135876,Hertfordshire,919,6905,9196905,Future Academies Watford,Horseshoe Lane,Garston,,Watford,WD25 7HW,Open,,,Academy,Academy sponsor led,0,1,1,11,18,Mixed,Does not apply,Non-selective
+136276,Hertfordshire,919,5401,9195401,Watford Grammar School for Boys,Rickmansworth Road,,,Watford,WD18 7JF,Open,,,Academy,Academy converter,0,1,1,11,18,Boys,Church of England,Non-selective
+136289,Hertfordshire,919,5403,9195403,Watford Grammar School for Girls,Lady's Close,,,Watford,WD18 0AE,Open,,,Academy,Academy converter,0,1,1,11,18,Girls,Church of England,Non-selective
+136396,Hertfordshire,919,4101,9194101,The Broxbourne School,Badgers Walk,,,Broxbourne,EN10 7FU,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,None,Non-selective
+136482,Hertfordshire,919,5427,9195427,Hockerill Anglo-European College,Dunmow Road,,Hockerill Anglo-European College,Bishop's Stortford,CM23 5HX,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,None,Non-selective
+136554,Hertfordshire,919,5407,9195407,Dame Alice Owen's School,Dugdale Hill Lane,,,Potters Bar,EN6 2DU,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,None,Non-selective
+136606,Hertfordshire,919,5400,9195400,Rickmansworth School,Scots Hill,,,Rickmansworth,WD3 3AQ,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,None,Non-selective
+136607,Hertfordshire,919,5426,9195426,The John Warner School,Stanstead Road,,,Hoddesdon,EN11 0QF,Closed,,31-12-2023,Academy,Academy converter,0,1,1,11,18,Mixed,None,Non-selective
+136608,Hertfordshire,919,4016,9194016,The Knights Templar School,Park Street,,,Baldock,SG7 6DZ,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,Does not apply,Non-selective
+136609,Hertfordshire,919,4197,9194197,Sandringham School,The Ridgeway,,,St Albans,AL4 9NX,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,Does not apply,Non-selective
+136857,Hertfordshire,919,2003,9192003,Bovingdon Primary Academy,"Bovingdon Primary Academy,High Street",High Street,Bovingdon,Hemel Hempstead,HP3 0HL,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Does not apply,Not applicable
+136877,Hertfordshire,919,5410,9195410,Queens' School,Aldenham Road,,,Bushey,WD23 2TY,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,None,Non-selective
+136899,Hertfordshire,919,5404,9195404,Parmiter's School,High Elms Lane,Garston,,Watford,WD25 0UU,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,None,Non-selective
+136901,Hertfordshire,919,5421,9195421,St Clement Danes School,Chenies Road,Chorleywood,,Rickmansworth,WD3 6EW,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,None,Non-selective
+136922,Hertfordshire,919,4802,9194802,Yavneh College,Hillside Avenue,,,Borehamwood,WD6 1HL,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,Jewish,Non-selective
+136973,Hertfordshire,919,4070,9194070,Roundwood Park School,Roundwood Park,,,Harpenden,AL5 3AE,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,None,Non-selective
+137002,Hertfordshire,919,4141,9194141,Freman College,Bowling Green Lane,,,Buntingford,SG9 9BT,Open,,,Academy,Academy converter,0,1,1,13,18,Mixed,None,Non-selective
+137038,Hertfordshire,919,4011,9194011,Verulam School,Brampton Road,,,St Albans,AL1 4PR,Open,,,Academy,Academy converter,0,1,1,11,18,Boys,Does not apply,Non-selective
+137090,Hertfordshire,919,4498,9194498,The Chauncy School,Park Road,,,Ware,SG12 0DP,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,None,Non-selective
+137110,Hertfordshire,919,4080,9194080,Longdean School,Rumballs Rd,,,Hemel Hempstead,HP3 8JB,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,Does not apply,Non-selective
+137156,Hertfordshire,919,5416,9195416,Leventhorpe,Cambridge Road,,,Sawbridgeworth,CM21 9BY,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,None,Non-selective
+137224,Hertfordshire,919,5411,9195411,Mount Grace School,Church Road,,,Potters Bar,EN6 1EZ,"Open, but proposed to close",,31-10-2025,Academy,Academy converter,0,1,1,11,18,Mixed,None,Non-selective
+137238,Hertfordshire,919,2337,9192337,Hammond Academy,Cambrian Way,,,Hemel Hempstead,HP2 5TD,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Does not apply,Not applicable
+137270,Hertfordshire,919,4028,9194028,Sir John Lawes School,Manland Way,,,Harpenden,AL5 4QP,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,None,Non-selective
+137288,Hertfordshire,919,4009,9194009,Hitchin Girls' School,Highbury Road,,,Hitchin,SG4 9RS,Open,,,Academy,Academy converter,0,1,1,11,18,Girls,Does not apply,Non-selective
+137339,Hertfordshire,919,4083,9194083,St Albans Girls' School,Sandridgebury Lane,,,St Albans,AL3 6DB,Open,,,Academy,Academy converter,0,1,1,11,18,Girls,Does not apply,Non-selective
+137351,Hertfordshire,919,3986,9193986,Summercroft Primary School,Plaw Hatch Close,,,Bishop's Stortford,CM23 5BJ,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Does not apply,Not applicable
+137532,Hertfordshire,919,5415,9195415,Goffs Academy,Goffs Lane,Cheshunt,,Waltham Cross,EN7 5QW,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,None,Non-selective
+137637,Hertfordshire,919,4200,9194200,Birchwood High School,Parsonage Lane,,,Bishop's Stortford,CM23 5BD,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,None,Non-selective
+137656,Hertfordshire,919,4140,9194140,King James Academy Royston,Garden Walk,,,Royston,SG8 7JH,Open,,,Academy,Academy converter,1,1,1,9,18,Mixed,Does not apply,Non-selective
+137757,Hertfordshire,919,4099,9194099,Bishop's Hatfield Girls' School,Woods Avenue,,,Hatfield,AL10 8NL,Open,,,Academy,Academy converter,0,1,1,11,18,Girls,Does not apply,Non-selective
+137847,Hertfordshire,919,4014,9194014,Stanborough School,Lemsford Lane,,,Welwyn Garden City,AL8 6YR,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,Does not apply,Non-selective
+137861,Hertfordshire,919,5208,9195208,Little Reddings Primary School,Harcourt Road,,,Bushey,WD23 3PR,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,None,Not applicable
+137872,Hertfordshire,919,5408,9195408,Bushey Meads School,Coldharbour Lane,,,Bushey,WD23 4PA,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,None,Non-selective
+137895,Hertfordshire,919,5413,9195413,The Saint John Henry Newman Catholic School,Hitchin Road,,,Stevenage,SG1 4AE,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,Roman Catholic,Non-selective
+137914,Hertfordshire,919,5418,9195418,Saint Joan of Arc Catholic School,High Street,,,Rickmansworth,WD3 1HG,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,Roman Catholic,Non-selective
+137922,Hertfordshire,919,5417,9195417,Saint Michael's Catholic High School,High Elms Lane,Garston,,Watford,WD25 0SS,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,Roman Catholic,Non-selective
+137938,Hertfordshire,919,5412,9195412,Nicholas Breakspear Catholic School,Colney Heath Lane,,,St Albans,AL4 0TT,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,Roman Catholic,Non-selective
+137943,Hertfordshire,919,2454,9192454,Applecroft School,Applecroft Road,,,Welwyn Garden City,AL8 6JZ,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,None,Non-selective
+137985,Hertfordshire,919,4013,9194013,Presdales School,Hoe Lane,,,Ware,SG12 9NX,Open,,,Academy,Academy converter,0,1,1,11,18,Girls,Does not apply,Non-selective
+137997,Hertfordshire,919,7041,9197041,"Woolgrove School, Special Needs Academy",Pryor Way,,,Letchworth Garden City,SG6 2PT,Open,,,Special school,Academy special converter,1,0,0,4,11,Mixed,Does not apply,Not applicable
+138042,Hertfordshire,919,5414,9195414,The Marlborough Science Academy,Watling Street,,,St Albans,AL1 2QA,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,None,Non-selective
+138106,Hertfordshire,919,4620,9194620,Loreto College,Hatfield Road,,,St Albans,AL1 3RQ,Open,,,Academy,Academy converter,0,1,1,11,18,Girls,Roman Catholic,Non-selective
+138201,Hertfordshire,919,2004,9192004,Hatfield Community Free School,Briars Lane,,,Hatfield,AL10 8ES,Open,,,Academy,Free schools,1,0,0,4,11,Mixed,None,Not applicable
+138205,Hertfordshire,919,2093,9192093,Fleetville Junior School,228 Hatfield Road,,,St Albans,AL1 4LW,Open,,,Academy,Academy converter,1,0,0,7,11,Mixed,Does not apply,Not applicable
+138206,Hertfordshire,919,2094,9192094,Fleetville Infant and Nursery School,Royal Road,,,St Albans,AL1 4LX,Open,,,Academy,Academy converter,1,0,0,3,7,Mixed,Does not apply,Not applicable
+138215,Hertfordshire,919,5206,9195206,The Wroxham School,Wroxham Gardens,,,Potters Bar,EN6 3DJ,Open,,,Academy,Academy converter,1,0,0,4,11,Mixed,None,Not applicable
+138231,Hertfordshire,919,2028,9192028,Alban City School,7 Hatfield Road,,,St Albans,AL1 3RR,Open,,,Academy,Free schools,1,0,0,5,11,Mixed,Does not apply,Not applicable
+138286,Hertfordshire,919,4043,9194043,Beaumont School,Austen Way,,,St Albans,AL4 0XB,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,Does not apply,Non-selective
+138288,Hertfordshire,919,5211,9195211,St Catherine of Siena Catholic Primary School,Horseshoe Lane,Garston,,Watford,WD25 7HP,Open,,,Academy,Academy converter,1,0,0,4,11,Mixed,Roman Catholic,Not applicable
+138292,Hertfordshire,919,5200,9195200,St Mary Roman Catholic Primary School,Melbourn Road,,,Royston,SG8 7DB,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Roman Catholic,Not applicable
+138316,Hertfordshire,919,3413,9193413,St John Roman Catholic Primary School,Providence Way,,,Baldock,SG7 6TT,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Roman Catholic,Not applicable
+138322,Hertfordshire,919,3399,9193399,Our Lady Catholic Primary School,Old Hale Way,,,Hitchin,SG5 1XT,Open,,,Academy,Academy converter,1,0,0,5,11,Mixed,Roman Catholic,Not applicable
+138352,Hertfordshire,919,4504,9194504,Tring School,Mortimer Hill,,,Tring,HP23 5JD,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,Church of England,Non-selective
+138354,Hertfordshire,919,3400,9193400,St Thomas More Roman Catholic Primary School,Highfield,,,Letchworth Garden City,SG6 3QB,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Roman Catholic,Not applicable
+138356,Hertfordshire,919,4614,9194614,St George's School,Sun Lane,,,Harpenden,AL5 4TD,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,Christian,Non-selective
+138360,Hertfordshire,919,5423,9195423,St Mary's Church of England High School (VA),Lieutenant Ellis Way,Cheshunt,,Waltham Cross,EN7 5FB,Open,,,Academy,Academy converter,0,1,1,11,19,Mixed,Church of England,Non-selective
+138389,Hertfordshire,919,2029,9192029,Garden City Academy,Radburn Way,,,Letchworth Garden City,SG6 2JZ,Open,,,Academy,Academy sponsor led,1,0,0,3,11,Mixed,Does not apply,Not applicable
+138484,Hertfordshire,919,4117,9194117,The Sele School,Welwyn Road,,,Hertford,SG14 2DG,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,Does not apply,Non-selective
+138485,Hertfordshire,919,7007,9197007,Knightsfield School,Knightsfield,,,Welwyn Garden City,AL8 7LW,Open,,,Special school,Academy special converter,1,1,1,9,18,Mixed,Does not apply,Not applicable
+138507,Hertfordshire,919,2035,9192035,The Grove Academy,Fourth Avenue,,,Watford,WD25 9RH,Open,,,Academy,Academy sponsor led,1,0,0,3,11,Mixed,None,Not applicable
+138539,Hertfordshire,919,2009,9192009,Northgate Primary School,Cricketfield Lane,,,Bishop's Stortford,CM23 2RL,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Does not apply,Not applicable
+138582,Hertfordshire,919,4003,9194003,Samuel Ryder Academy,Drakes Drive,,,St Albans,AL1 5AR,Open,,,Academy,Academy sponsor led,1,1,1,4,19,Mixed,None,Non-selective
+138632,Hertfordshire,919,4118,9194118,Monk's Walk School,Knightsfield,,,Welwyn Garden City,AL8 7NL,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,None,Non-selective
+138747,Hertfordshire,919,4001,9194001,Hertswood Academy,Cowley Hill,,,Borehamwood,WD6 5LG,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,Does not apply,Non-selective
+139036,Hertfordshire,919,4096,9194096,Kings Langley School,Love Lane,,,Kings Langley,WD4 9HN,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,Does not apply,Non-selective
+139154,Hertfordshire,919,4008,9194008,Hitchin Boys' School,Grammar School Walk,,,Hitchin,SG5 1JB,Open,,,Academy,Academy converter,0,1,1,11,18,Boys,Does not apply,Non-selective
+139159,Hertfordshire,919,2099,9192099,Mandeville Primary School,Mandeville Drive,,,St Albans,AL1 2LE,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Does not apply,Not applicable
+139416,Hertfordshire,919,4004,9194004,Elstree Screen Arts Academy,Studio Way,Elstree,,Borehamwood,WD6 5NN,Open,,,Academy,University technical college,0,1,1,14,19,Mixed,Does not apply,Non-selective
+139507,Hertfordshire,919,5201,9195201,Christ Church Chorleywood CofE School,The Common,Rickmansworth Road,Chorleywood,Rickmansworth,WD3 5SG,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Church of England,Not applicable
+139545,Hertfordshire,919,2001,9192001,Flamstead End School,Longfield Lane,Cheshunt,,Waltham Cross,EN7 6AG,Open,,,Academy,Academy converter,1,0,0,2,11,Mixed,Does not apply,Not applicable
+139550,Hertfordshire,919,2036,9192036,Chaulden Junior School,School Row,Chaulden,,Hemel Hempstead,HP1 2JU,Closed,,31-01-2024,Academy,Academy sponsor led,1,0,0,7,11,Mixed,Does not apply,Not applicable
+139662,Hertfordshire,919,4007,9194007,The Reach Free School,Long Lane,,,Rickmansworth,WD3 8AB,Open,,,Academy,Free schools,0,1,1,11,18,Mixed,None,Non-selective
+139873,Hertfordshire,919,4006,9194006,Richard Hale School,Hale Road,,,Hertford,SG13 8EN,Open,,,Academy,Academy converter,0,1,1,11,18,Boys,None,Non-selective
+140037,Hertfordshire,919,4017,9194017,The Thomas Alleyne Academy,High Street,,,Stevenage,SG1 3BE,Open,,,Academy,Academy sponsor led,0,1,1,11,18,Mixed,Does not apply,Non-selective
+140049,Hertfordshire,919,4111,9194111,Westfield Academy,Tolpits Lane,,,Watford,WD18 6NS,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,Does not apply,Non-selective
+140238,Hertfordshire,919,3406,9193406,Countess Anne Church of England School,School Lane,,,Hatfield,AL10 8AX,Open,,,Academy,Academy converter,1,0,0,5,11,Mixed,Church of England,Not applicable
+140249,Hertfordshire,919,4146,9194146,Ralph Sadleir School,Station Road,Puckeridge,,Ware,SG11 1TF,Open,,,Academy,Academy converter,1,1,0,9,13,Mixed,Does not apply,Not applicable
+140294,Hertfordshire,919,4067,9194067,Simon Balle All-Through School,Mangrove Road,,,Hertford,SG13 8AJ,Open,,,Academy,Academy converter,1,1,1,4,18,Mixed,Does not apply,Non-selective
+140611,Hertfordshire,919,2038,9192038,Wilshere-Dacre Junior Academy,Fishponds Road,,,Hitchin,SG5 1NS,Open,,,Academy,Academy sponsor led,1,0,0,7,11,Mixed,Does not apply
+140655,Hertfordshire,919,6053,9196053,White Trees Independent School,13a London Road,Bishops Stortford,Hertfordshire,,CM23 5NA,Open,,,Special school,Other independent special school,0,1,1,11,18,Mixed,None,Not applicable
+140707,Hertfordshire,919,2390,9192390,Crabtree Infants' School,Crabtree Lane,,,Harpenden,AL5 5PU,Open,,,Academy,Academy converter,1,0,0,4,7,Mixed,Does not apply,Not applicable
+140708,Hertfordshire,919,2344,9192344,Crabtree Junior School,Crabtree Lane,,,Harpenden,AL5 5PU,Open,,,Academy,Academy converter,1,0,0,7,11,Mixed,Does not apply,Not applicable
+140786,Hertfordshire,919,5420,9195420,The Hertfordshire & Essex High School and Science College,Warwick Road,,,Bishop's Stortford,CM23 5NJ,Open,,,Academy,Academy converter,0,1,1,11,18,Girls,None,Non-selective
+140954,Hertfordshire,919,2049,9192049,Lanchester Primary School,Hempstead Road,,,Watford,WD17 3HD,Open,,,Academy,Free schools,1,0,0,4,11,Mixed,None,Not applicable
+140955,Hertfordshire,919,2042,9192042,Jupiter Primary School,Jupiter Drive,,,Hemel Hempstead,HP2 5NT,Open,,,Academy,Free schools,1,0,0,4,11,Mixed,None,Non-selective
+140956,Hertfordshire,919,2043,9192043,Ascot Road Primary School,Ascot Road,,,Watford,WD18 8AD,Open,,,Academy,Free schools,1,0,0,4,11,Mixed,None,Not applicable
+141251,Hertfordshire,919,7004,9197004,Pinewood School,Hoe Lane,,,Ware,SG12 9PB,Open,,,Special school,Academy special converter,0,1,0,11,16,Mixed,Does not apply,Not applicable
+141851,Hertfordshire,919,3979,9193979,Windhill21,Windhill,,,Bishop's Stortford,CM23 2NE,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Does not apply,Not applicable
+141898,Hertfordshire,919,5212,9195212,Fair Field Junior School,Watford Road,,Radlett,Radlett,WD7 8LU,Open,,,Academy,Academy converter,1,0,0,7,11,Mixed,None,Not applicable
+142051,Hertfordshire,919,4022,9194022,Haileybury Turnford,Mill Lane,Cheshunt,,Waltham Cross,EN8 0JU,Open,,,Academy,Academy sponsor led,0,1,1,11,18,Mixed,Does not apply,Non-selective
+142221,Hertfordshire,919,2051,9192051,Watford St John's Church of England Primary School,32 Clarendon Road,,,Watford,WD17 1JJ,Open,,,Academy,Free schools,1,0,0,4,11,Mixed,Church of England/Christian
+142257,Hertfordshire,919,7014,9197014,Hailey Hall School,Hailey Lane,,,Hertford,SG13 7PB,Open,,,Special school,Academy special converter,0,1,0,11,16,Boys,Does not apply,Not applicable
+142862,Hertfordshire,919,2054,9192054,Yavneh Primary School,Hillside Avenue,,,Borehamwood,WD6 1HL,Open,,,Academy,Free schools,1,0,0,4,11,Mixed,Orthodox Jewish
+143131,Hertfordshire,919,4024,9194024,Robert Barclay Academy,Cock Lane,,,Hoddesdon,EN11 8JY,Open,,,Academy,Academy sponsor led,0,1,1,11,18,Mixed,Does not apply,Not applicable
+143409,Hertfordshire,919,2429,9192429,Roselands Primary School,High Wood Road,,,Hoddesdon,EN11 9AR,Open,,,Academy,Academy converter,1,0,0,5,11,Mixed,Does not apply,Not applicable
+143410,Hertfordshire,919,2384,9192384,The Cranbourne Primary School,Bridleway North,,,Hoddesdon,EN11 9PP,Open,,,Academy,Academy converter,1,0,0,4,11,Mixed,Does not apply,Not applicable
+143603,Hertfordshire,919,2398,9192398,Laurance Haines School,Vicarage Road,,,Watford,WD18 0DD,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Does not apply,Not applicable
+143604,Hertfordshire,919,7034,9197034,Larwood School,Larwood Drive,,,Stevenage,SG1 5BZ,Open,,,Special school,Academy special converter,1,0,0,5,11,Mixed,Does not apply,Non-selective
+143648,Hertfordshire,919,2060,9192060,Harpenden Academy,25 Vaughan Road,,,Harpenden,AL5 4EL,Open,,,Academy,Free schools,1,0,0,4,11,Mixed,None
+143785,Hertfordshire,919,2110,9192110,Fairlands Primary School,Pound Avenue,,,Stevenage,SG1 3JA,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Does not apply,Not applicable
+143786,Hertfordshire,919,2235,9192235,Camps Hill Primary School,Chells Way,,,Stevenage,SG2 0LT,Open,,,Academy,Academy converter,1,0,0,2,11,Mixed,Does not apply,Not applicable
+143856,Hertfordshire,919,2063,9192063,Churchfield Church of England Academy,Cheshunt Wash,,,Waltham Cross,EN8 0LU,Open,,,Academy,Academy sponsor led,1,0,0,3,11,Mixed,Church of England,Not applicable
+144402,Hertfordshire,919,4025,9194025,Croxley Danes School,Baldwins Lane,Croxley Green,,Rickmansworth,WD3 3LR,Open,,,Academy,Free schools,0,1,1,11,18,Mixed,None
+144419,Hertfordshire,919,2024,9192024,Roebuck Academy,St Margarets,,,Stevenage,SG2 8RG,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Does not apply,Not applicable
+144623,Hertfordshire,919,4026,9194026,Barclay Academy,Walkern Road,,,Stevenage,SG1 3RB,Open,,,Academy,Academy sponsor led,0,1,1,11,18,Mixed,Does not apply,Non-selective
+144726,Hertfordshire,919,6008,9196008,Rhodes Wood Hospital School,Shepherds Way,Brookmans Park,Hatfield,,AL9 6NN,Open,,,Special school,Other independent special school,1,1,1,7,19,Mixed,None,Not applicable
+144903,Hertfordshire,919,2067,9192067,Wilbury Junior School,Bedford Road,,,Letchworth Garden City,SG6 4DU,Open,,,Academy,Academy converter,1,0,0,7,11,Mixed,Does not apply,Not applicable
+144904,Hertfordshire,919,2068,9192068,The Grange Academy,Sparhawke,,,Letchworth Garden City,SG6 4PY,Open,,,Academy,Academy converter,1,0,0,7,11,Mixed,Does not apply,Not applicable
+144905,Hertfordshire,919,2135,9192135,Warren Dell Primary School,Gosforth Lane,South Oxhey,,Watford,WD19 7UZ,Open,,,Academy,Academy converter,1,0,0,2,11,Mixed,Does not apply,Not applicable
+144906,Hertfordshire,919,2137,9192137,Oxhey Wood Primary School,Oxhey Drive,South Oxhey,,Watford,WD19 7SL,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Does not apply,Not applicable
+144907,Hertfordshire,919,3981,9193981,Alban Wood Primary School and Nursery,The Brow,,,Watford,WD25 7NX,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Does not apply,Not applicable
+144908,Hertfordshire,919,2385,9192385,Bromet Primary School,Oxhey Road,,,Watford,WD19 4SG,Open,,,Academy,Academy converter,1,0,0,5,11,Mixed,Does not apply,Not applicable
+144909,Hertfordshire,919,3991,9193991,Broadfield Academy,Windmill Road,,,Hemel Hempstead,HP2 4BX,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Does not apply,Not applicable
+144959,Hertfordshire,919,2071,9192071,Bedmond Academy,Meadow Way,Bedmond,,Abbots Langley,WD5 0RD,Open,,,Academy,Academy sponsor led,1,0,0,3,11,Mixed,Does not apply,Not applicable
+144960,Hertfordshire,919,2080,9192080,Manor Fields Primary School,Penningtons,,,Bishop's Stortford,CM23 4LE,Open,,,Academy,Academy sponsor led,1,0,0,3,11,Mixed,Does not apply,Not applicable
+145255,Hertfordshire,919,2436,9192436,Grove Road Primary School,Grove Road,,,Tring,HP23 5PD,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Does not apply,Not applicable
+145256,Hertfordshire,919,2372,9192372,Hartsbourne Primary School,Hartsbourne Road,,,Bushey,WD23 1SJ,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Does not apply,Not applicable
+145257,Hertfordshire,919,2296,9192296,Waterside Academy,Rowans,,,Welwyn Garden City,AL7 1NZ,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Does not apply,Not applicable
+145297,Hertfordshire,919,5425,9195425,Goffs - Churchgate Academy,College Road,Cheshunt,,Waltham Cross,EN8 9LY,Open,,,Academy,Academy converter,0,1,0,11,16,Mixed,None,Non-selective
+145350,Hertfordshire,919,2020,9192020,Beechfield School,Gammons Lane,,,Watford,WD24 5TY,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Does not apply,Not applicable
+145351,Hertfordshire,919,2156,9192156,Meryfield Primary School,Theobald Street,,Theobald Street,Borehamwood,WD6 4PA,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Does not apply,Not applicable
+145352,Hertfordshire,919,2115,9192115,The Orchard Primary School,Gammons Lane,,,Watford,WD24 5JW,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Does not apply,Not applicable
+145353,Hertfordshire,919,2432,9192432,Cherry Tree Primary School,Berry Avenue,,,Watford,WD24 6ST,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Does not apply,Not applicable
+145409,Hertfordshire,919,2081,9192081,Springmead Primary School,Hillyfields,,,Welwyn Garden City,AL7 2HB,Open,,,Academy,Academy sponsor led,1,0,0,3,11,Mixed,Does not apply,Not applicable
+145430,Hertfordshire,919,4032,9194032,The Adeyfield Academy,Longlands,,,Hemel Hempstead,HP2 4DE,Open,,,Academy,Academy sponsor led,0,1,1,11,18,Mixed,Does not apply,Non-selective
+145487,Hertfordshire,919,2086,9192086,Beech Hyde Primary School and Nursery,Nurseries Road,Wheathampstead,,St. Albans,AL4 8TP,Open,,,Academy,Academy sponsor led,1,0,0,3,11,Mixed,Does not apply,Not applicable
+145890,Hertfordshire,919,4030,9194030,Katherine Warington School,Lower Luton Road,,,Harpenden,AL5 5FH,Open,,,Academy,Free schools,0,1,1,11,19,Mixed
+145962,Hertfordshire,919,6009,9196009,Elysium Healthcare Potters Bar Clinic School,Barnet Road,Potters Bar,Hertfordshire,Potters Bar,EN6 2SE,Open,,,Special school,Other independent special school,0,1,1,11,19,Mixed,None,Not applicable
+145969,Hertfordshire,919,2444,9192444,Mount Pleasant Lane Primary School,Mount Pleasant Lane,Bricket Wood,,St Albans,AL2 3XA,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Does not apply,Not applicable
+146123,Hertfordshire,919,2130,9192130,Knutsford Primary Academy,Balmoral Road,,,Watford,WD24 7ER,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Does not apply,Not applicable
+146305,Hertfordshire,919,4031,9194031,Ridgeway Academy,Herns Lane,,,Welwyn Garden City,AL7 2AF,Open,,,Academy,Academy sponsor led,0,1,1,11,18,Mixed,Does not apply,Non-selective
+146359,Hertfordshire,919,2088,9192088,Larkspur Academy,Tower Road,,,Ware,SG12 7LP,Open,,,Academy,Academy sponsor led,1,0,0,3,11,Mixed,Does not apply,Not applicable
+146440,Hertfordshire,919,4033,9194033,Laureate Academy,Warners End Road,,,Hemel Hempstead,HP1 3DW,Open,,,Academy,Academy sponsor led,0,1,1,11,18,Mixed,Does not apply
+146723,Hertfordshire,919,3037,9193037,Sarratt Church of England Primary School,The Green,Sarratt,,Rickmansworth,WD3 6AS,Open,,,Academy,Academy converter,1,0,0,4,11,Mixed,Church of England,Not applicable
+146859,Hertfordshire,919,3398,9193398,St John Catholic Primary School,Berry Lane,Mill End,,Rickmansworth,WD3 7HG,Open,,,Academy,Academy converter,1,0,0,4,11,Mixed,Roman Catholic,Not applicable
+146878,Hertfordshire,919,2206,9192206,Wheatfields Junior Mixed School,Downes Road,,,St Albans,AL4 9NT,Open,,,Academy,Academy converter,1,0,0,7,11,Mixed,Does not apply,Not applicable
+146893,Hertfordshire,919,2311,9192311,Wheatfields Infants' and Nursery School,Downes Road,,,St. Albans,AL4 9NT,Open,,,Academy,Academy converter,1,0,0,3,7,Mixed,Does not apply,Not applicable
+146903,Hertfordshire,919,3985,9193985,Holy Rood Catholic Primary School,Greenbank Road,,,Watford,WD17 4FS,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Roman Catholic,Not applicable
+146922,Hertfordshire,919,3410,9193410,Divine Saviour Roman Catholic Primary School,Broomfield Rise,,,Abbots Langley,WD5 0HW,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Roman Catholic,Not applicable
+147008,Hertfordshire,919,2089,9192089,Roman Way Academy,Burns Road,,,Royston,SG8 5EQ,Open,,,Academy,Academy sponsor led,1,0,0,3,9,Mixed,Does not apply,Not applicable
+147246,Hertfordshire,919,5419,9195419,Chancellor's School,Pine Grove,Brookmans Park,,Hatfield,AL9 7BN,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,None,Non-selective
+147283,Hertfordshire,919,2092,9192092,Hertsmere Jewish Primary School,Watling Street,,,Radlett,WD7 7LQ,Open,,,Academy,Academy sponsor led,1,0,0,3,11,Mixed,Jewish,Not applicable
+147535,Hertfordshire,919,4035,9194035,Onslow St Audrey's School,Old Rectory Drive,,,Hatfield,AL10 8AB,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed
+147679,Hertfordshire,919,7003,9197003,Brandles School,Weston Way,,,Baldock,SG7 6EY,Open,,,Special school,Academy special sponsor led,0,1,0,11,16,Boys,Does not apply,Not applicable
+147785,Hertfordshire,919,4036,9194036,The Grange Academy,London Road,,,Bushey,WD23 3AA,Open,,,Academy,Academy sponsor led,0,1,1,11,18,Mixed
+147818,Hertfordshire,919,3003,9193003,St John's Church of England Infant and Nursery School,Gills Hill Lane,,,Radlett,WD7 8DD,Open,,,Academy,Academy converter,1,0,0,3,7,Mixed,Church of England,Not applicable
+147834,Hertfordshire,919,2097,9192097,Avanti Meadows Primary School,Farnham Road,,,Bishop's Stortford,CM23 1FQ,Open,,,Academy,Free schools,1,0,0,3,11,Mixed,None,Non-selective
+147879,Hertfordshire,919,2401,9192401,Woodside Primary School,Jones Road,Goffs Oak,Cheshunt,Waltham Cross,EN7 5JS,Open,,,Academy,Academy converter,1,0,0,4,11,Mixed,Does not apply,Not applicable
+148040,Hertfordshire,919,2112,9192112,De Havilland Primary School,Travellers Lane,,,Hatfield,AL10 8TQ,Open,,,Academy,Academy sponsor led,1,0,0,3,11,Mixed,Does not apply,Not applicable
+148434,Hertfordshire,919,2095,9192095,Garden Fields Junior Mixed and Infant School,Townsend Drive,,,St Albans,AL3 5RL,Open,,,Academy,Academy converter,1,0,0,5,11,Mixed,Does not apply,Not applicable
+148472,Hertfordshire,919,6018,9196018,Redbourn Park School,Grovehill Youth Centre,Stevenage Rise,,Hemel Hempstead,HP2 6BH,Open,,,Special school,Other independent special school,1,1,0,7,14,Mixed,None
+148491,Hertfordshire,919,3318,9193318,St Joseph's Catholic Primary School B/S,Great Hadham Road,,,Bishop's Stortford,CM23 2NL,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Roman Catholic,Not applicable
+148492,Hertfordshire,919,3327,9193327,St Joseph's Catholic Primary School (Wx),Royal Avenue,,,Waltham Cross,EN8 7EN,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Roman Catholic,Not applicable
+148493,Hertfordshire,919,3341,9193341,St Joseph's Catholic Primary School (Hertford),"St Joseph's Catholic Primary School,  North Road",,North Road,Hertford,SG14 2BU,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Roman Catholic,Not applicable
+148494,Hertfordshire,919,3345,9193345,St Augustine's Catholic Primary School,Riversmead,,,Hoddesdon,EN11 8DP,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Roman Catholic,Not applicable
+148495,Hertfordshire,919,3367,9193367,St Thomas of Canterbury Catholic Primary School,High Street,Puckeridge,,Ware,SG11 1RZ,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Roman Catholic,Not applicable
+148496,Hertfordshire,919,3408,9193408,St Cross Catholic Primary School,Upper Marsh Lane,,,Hoddesdon,EN11 8BN,Open,,,Academy,Academy converter,1,0,0,5,11,Mixed,Roman Catholic,Not applicable
+148498,Hertfordshire,919,3424,9193424,Sacred Heart Catholic Primary School,Broadmeads,,,Ware,SG12 9HY,Open,,,Academy,Academy converter,1,0,0,4,11,Mixed,Roman Catholic,Not applicable
+148499,Hertfordshire,919,5422,9195422,St Mary's Catholic School,Windhill,,,Bishop's Stortford,CM23 2NQ,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,Roman Catholic,Non-selective
+148710,Hertfordshire,919,2343,9192343,Dundale Primary School and Nursery,"Dundale Primary School, Silk Mill Way",,,Tring,HP23 5DJ,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Does not apply,Not applicable
+148875,Hertfordshire,919,2258,9192258,Skyswood Primary & Nursery School,Chandlers Road,,,St Albans,AL4 9RS,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Does not apply,Not applicable
+148989,Hertfordshire,919,2140,9192140,Peartree Primary School,Peartree Primary School,,Peartree Lane,Welwyn Garden City,AL7 3XW,Open,,,Academy,Academy converter,1,0,0,5,11,Mixed,Does not apply,Not applicable
+148990,Hertfordshire,919,3403,9193403,"St John Fisher Catholic Primary School, a Voluntary Academy",Hazelmere Road,,,St Albans,AL4 9RW,Open,,,Academy,Academy converter,1,0,0,4,11,Mixed,Roman Catholic,Not applicable
+149078,Hertfordshire,919,4037,9194037,Avanti Grange Secondary School,Newland Avenue,,,Bishops Stortford,CM23 2BD,Open,,,Academy,Free schools,0,1,1,11,18,Mixed,None,Non-selective
+149206,Hertfordshire,919,2365,9192365,Round Diamond Primary School,Whitehorse Lane,Great Ashby Way,,Stevenage,SG1 6NH,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Does not apply,Not applicable
+149330,Hertfordshire,919,2113,9192113,Martins Wood Primary School,Mildmay Road,,,Stevenage,SG1 5RT,Open,,,Academy,Academy sponsor led,1,0,0,2,11,Mixed,Does not apply,Not applicable
+149333,Hertfordshire,919,2118,9192118,Watchlytes Primary School,Watchlytes,,,Welwyn Garden City,AL7 2AZ,Open,,,Academy,Academy sponsor led,1,0,0,3,11,Mixed,Does not apply,Not applicable
+149500,Hertfordshire,919,4005,9194005,The Hemel Hempstead School,Heath Lane,,"The Hemel Hempstead School, Heath Lane",Hemel Hempstead,HP1 1TX,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,Does not apply,Non-selective
+149537,Hertfordshire,919,2119,9192119,Avanti Brook Primary School,Newland Avenue,,,Bishops Stortford,CM23 2UW,Open,,,Academy,Free schools,1,0,0,2,11,Mixed,None,Non-selective
+149736,Hertfordshire,919,7030,9197030,James Marks Academy,C/O Roman Fields Academy,11 Box Lane,,Hemel Hempstead,HP3 0DF,Open,,,Special school,Free schools special,0,1,1,11,18,Mixed,Does not apply,Non-selective
+149741,Hertfordshire,919,3391,9193391,"Saint Albert the Great Catholic Primary School, a Voluntary Academy",Acorn Road,Bennetts End,,Hemel Hempstead,HP3 8DW,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Roman Catholic,Non-selective
+149742,Hertfordshire,919,3402,9193402,"St Thomas More Roman Catholic Primary School, a Voluntary Academy",Greenway,,,Berkhamsted,HP4 3LF,Open,,,Academy,Academy converter,1,0,0,3,11,Mixed,Roman Catholic,Not applicable
+149743,Hertfordshire,919,4619,9194619,John F Kennedy Catholic School,Hollybush Lane,,,Hemel Hempstead,HP1 2PH,Open,,,Academy,Academy converter,0,1,1,11,18,Mixed,Roman Catholic,Non-selective
+149748,Hertfordshire,919,2121,9192121,Buntingford First School,London Road,,,Buntingford,SG9 9HZ,Open,,,Academy,Free schools,1,0,0,2,9,Mixed,None,Non-selective
+150044,Hertfordshire,919,6023,9196023,East Hall School,The Calf House,East Hall Farm,St Pauls Walden,Hitchin,SG4 8DL,Open,14-09-2023,,Special school,Other independent special school,0,1,1,14,17,Mixed,None
+150217,Hertfordshire,919,4122,9194122,The Highfield School,Highfield,,,Letchworth Garden City,SG6 3QA,Open,01-01-2024,,Academy,Academy converter,0,1,1,11,18,Mixed,Does not apply,Non-selective
+150433,Hertfordshire,919,2127,9192127,Chaulden Infants' and Nursery,School Row,Chaulden,,Hemel Hempstead,HP1 2JU,Closed,01-02-2024,31-08-2024,Academy,Academy sponsor led,1,0,0,3,7,Mixed,Does not apply,Not applicable
+150455,Hertfordshire,919,6026,9196026,Redbourn Park Secondary School,Ebenezer Chapel,Bradden Lane,Gaddesden Row,Hemel Hempstead,HP2 6JB,Closed,28-02-2024,19-07-2024,Special school,Other independent special school,0,1,0,11,14,Mixed
+150576,Hertfordshire,919,3359,9193359,St Mary's Rickmansworth CofE Primary School,Stockers Farm Road,,St Mary's Church of England Primary School,Rickmansworth,WD3 1NY,Open,01-04-2024,,Academy,Academy converter,1,0,0,4,11,Mixed,Church of England,Not applicable
+150614,Hertfordshire,919,2128,9192128,Chaulden Junior School,School Row,Chaulden,,Hemel Hempstead,HP1 2JU,Closed,01-02-2024,31-08-2024,Academy,Academy sponsor led,1,0,0,7,11,Mixed,Does not apply
+150619,Hertfordshire,919,3386,9193386,St Cuthbert Mayne Voluntary Catholic Junior Academy,Clover Way,Gadebridge Road,,Hemel Hempstead,HP1 3EA,Open,01-07-2024,,Academy,Academy converter,1,0,0,7,11,Mixed,Roman Catholic,Non-selective
+150620,Hertfordshire,919,2362,9192362,Mill Mead Primary Academy,Mill Mead Primary School Port Vale,,,Hertford,SG14 3AA,Open,01-09-2025,,Academy,Academy converter,1,0,0,3,11,Mixed,Does not apply,Not applicable
+150621,Hertfordshire,919,3416,9193416,Saint Bernadette Voluntary Catholic Primary Academy,Walsingham Way,London Colney,,St Albans,AL2 1NL,Open,01-07-2024,,Academy,Academy converter,1,0,0,4,11,Mixed,Roman Catholic,Not applicable
+150656,Hertfordshire,919,4039,9194039,The John Warner School,Stanstead Road,,,Hoddesdon,EN11 0QF,Open,01-01-2024,,Academy,Academy converter,0,1,1,11,18,Mixed,None
+150698,Hertfordshire,919,2136,9192136,Creswick Academy,Sir John Newsom Way,,,Welwyn Garden City,AL7 4FL,Open,01-09-2024,,Academy,Academy sponsor led,1,0,0,4,11,Mixed,Does not apply,Not applicable
+150799,Hertfordshire,919,3409,9193409,St Rose's Catholic Infant School,Green End Road,Boxmoor,,Hemel Hempstead,HP1 1QW,Open,01-04-2024,,Academy,Academy converter,1,0,0,3,7,Mixed,Roman Catholic,Not applicable
+150844,Hertfordshire,919,2138,9192138,Oakview Primary School,Andrews Lane,Cheshunt,,Waltham Cross,EN7 6LB,Open,01-01-2025,,Academy,Academy sponsor led,1,0,0,3,11,Mixed,None,Not applicable
+151078,Hertfordshire,919,2443,9192443,Richard Whittington Primary School,Thornbera Gardens,,,Bishop's Stortford,CM23 3NP,Open,01-09-2024,,Academy,Academy converter,1,0,0,3,11,Mixed,Does not apply,Not applicable
+151161,Hertfordshire,919,2144,9192144,Forres Primary Academy,Stanstead Road,,,Hoddesdon,EN11 0RW,Open,01-09-2024,,Academy,Academy sponsor led,1,0,0,5,11,Mixed,Does not apply,Not applicable
+151215,Hertfordshire,919,2148,9192148,Ashtree Primary Academy,Chertsey Rise,,,Stevenage,SG2 9JQ,Open,01-01-2025,,Academy,Academy sponsor led,1,0,0,3,11,Mixed,Does not apply,Not applicable
+151370,Hertfordshire,919,3977,9193977,Saint Vincent de Paul Catholic Primary School,Bedwell Crescent,,,Stevenage,SG1 1NJ,Open,01-07-2025,,Academy,Academy converter,1,0,0,3,11,Mixed,Roman Catholic,Not applicable
+151385,Hertfordshire,919,2152,9192152,Oakleaf Primary,School Row,Chaulden,,Hemel Hempstead,HP1 2JU,Open,01-09-2024,,Academy,Academy sponsor led,1,0,0,3,11,Mixed,None
+151497,Hertfordshire,919,3404,9193404,The Holy Family Catholic Primary School,Crookhams,,,Welwyn Garden City,AL7 1PG,Open,01-07-2025,,Academy,Academy converter,1,0,0,3,11,Mixed,Roman Catholic,Not applicable
+151499,Hertfordshire,919,3401,9193401,St Dominic Catholic Primary School,St Dominic Catholic Primary School,Southdown Road,,HARPENDEN,AL5 1PF,Open,01-06-2025,,Academy,Academy converter,1,0,0,3,11,Mixed,Roman Catholic,Not applicable
+151596,Hertfordshire,919,3423,9193423,St Paul's Catholic Primary School,Park Lane,,,Cheshunt,EN7 6LR,Open,01-07-2025,,Academy,Academy converter,1,0,0,3,11,Mixed,Roman Catholic,Not applicable
